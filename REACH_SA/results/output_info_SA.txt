@@ -1,0 +1,31 @@
+Documentation of REACH-SA output data
+
+
+REACH_SA/results/concentrations
+baseline_molar: baseline molar concentrations of total nitrate, free ammonium, particulate nitrate (used for NH3 and NOx 
+                marginal social cost scripts)
+calibrated_conc: mass concentrations (ug/m3) of
+		 H2SO4: sulfuric acid
+                 NO3: nitrate
+                 NH4: ammonium
+                 SOA: secondary organic aerosols
+                 PM: primary PM2.5
+                 PM_25: total PM2.5 (sum of above species)
+uncalibrated_conc: mass concentrations (ug/m3) of PM2.5 species prior to calibration
+
+REACH_SA/results/matrices
+Source-receptor matrices for each PM2.5 precursor and emissions height (ground, elevated)
+Every row corresponds to a source location (list of sources are in emissions folder)
+Every column responds to a receptor location 
+Units are ug/m3/tonne
+
+REACH_SA/results/social_costs
+For each PM2.5 precursor file
+census_id: 4 digit identifier created for each location
+geo_name: location name
+lon, lat: geometric centroids of each location
+country: country name
+poll: pollutant
+emis: annual emissions in metric tonnes
+eff_height: effective height (metres)
+mort_pertonne: marginal social costs in mortalities per tonne

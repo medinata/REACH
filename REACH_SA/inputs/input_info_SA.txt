@@ -1,0 +1,32 @@
+Documentation of REACH-SA input data
+
+
+REACH_SA/inputs/
+sa_admn.xlsx
+Administration geography levels for each country, linked to population files obtained from the US Census Bureau 
+
+southern_africa.csv
+geo_name: location name
+lon, lat: geometric centroids of each location
+country: country name
+census_id: 4 digit identifier created for each location
+
+sub_grids.csv
+Every source location (municipalities or equivalent division) is divided into 100 grids for intra-source dispersion estimates. 
+This file contains the geometric centroids for the sub-grids within each source location
+
+REACH_SA/inputs/emissions/processed_emissions/
+For each PM2.5 precursor file
+census_id: 4 digit identifier created for each location
+geo_name: location name
+lon, lat: geometric centroids of each location
+country: country name
+poll: pollutant
+emis: annual emissions in metric tonnes
+eff_height: effective height (metres)
+
+REACH_SA/inputs/met_data/
+ERA5 hourly reanalysis data organized for each location (see script in Inputs directory)
+
+REACH_SA/inputs/population/
+Population files

@@ -1,0 +1,61 @@
+country,cause_name,PM_mort
+Angola,Chronic obstructive pulmonary disease,179.89755518468857
+Angola,Diabetes mellitus,478.28629473254284
+Angola,Lower respiratory infections,401.65049232604696
+Angola,"Tracheal, bronchus, and lung cancer",106.50859528487146
+Botswana,Chronic obstructive pulmonary disease,31.56872758380984
+Botswana,Diabetes mellitus,84.09263350802708
+Botswana,Lower respiratory infections,47.50443436582085
+Botswana,"Tracheal, bronchus, and lung cancer",17.209942274964867
+Eswatini,Chronic obstructive pulmonary disease,26.721718958558757
+Eswatini,Diabetes mellitus,86.7715527989284
+Eswatini,Lower respiratory infections,39.05452680521408
+Eswatini,"Tracheal, bronchus, and lung cancer",12.905300662191555
+Lesotho,Chronic obstructive pulmonary disease,88.64196450232593
+Lesotho,Diabetes mellitus,174.81543934318108
+Lesotho,Lower respiratory infections,117.29723686819987
+Lesotho,"Tracheal, bronchus, and lung cancer",30.79754579672295
+Malawi,Chronic obstructive pulmonary disease,119.60440011654507
+Malawi,Diabetes mellitus,321.2052595709739
+Malawi,Lower respiratory infections,263.00428234298386
+Malawi,"Tracheal, bronchus, and lung cancer",13.606002431236098
+Mozambique,Chronic obstructive pulmonary disease,238.58016058287186
+Mozambique,Diabetes mellitus,661.5272466891524
+Mozambique,Lower respiratory infections,560.5790493346555
+Mozambique,"Tracheal, bronchus, and lung cancer",72.94332875254705
+Namibia,Chronic obstructive pulmonary disease,10.623231146648306
+Namibia,Diabetes mellitus,25.69115113000103
+Namibia,Lower respiratory infections,15.914810467656286
+Namibia,"Tracheal, bronchus, and lung cancer",1.7279768090047303
+South Africa,Chronic obstructive pulmonary disease,1453.0194316374145
+South Africa,Diabetes mellitus,4333.805306802166
+South Africa,Lower respiratory infections,2342.1480521748927
+South Africa,"Tracheal, bronchus, and lung cancer",1048.9176223534328
+Zambia,Chronic obstructive pulmonary disease,134.5159765620305
+Zambia,Diabetes mellitus,326.92340346723404
+Zambia,Lower respiratory infections,263.91184917783204
+Zambia,"Tracheal, bronchus, and lung cancer",63.814810275446625
+Zimbabwe,Chronic obstructive pulmonary disease,153.71826461708758
+Zimbabwe,Diabetes mellitus,517.2488140709678
+Zimbabwe,Lower respiratory infections,544.6227954806509
+Zimbabwe,"Tracheal, bronchus, and lung cancer",82.04607836168375
+Angola,Stroke,1143.0015332261548
+Botswana,Stroke,114.86208954651872
+Eswatini,Stroke,100.38333659801897
+Lesotho,Stroke,330.5566316418672
+Malawi,Stroke,841.5196736767443
+Mozambique,Stroke,2776.7182786786975
+Namibia,Stroke,40.72672090130554
+South Africa,Stroke,5281.801980983917
+Zambia,Stroke,1018.4718815041527
+Zimbabwe,Stroke,1037.2474610151312
+Angola,Ischemic heart disease,981.1669714304284
+Botswana,Ischemic heart disease,83.83492125248168
+Eswatini,Ischemic heart disease,66.68231937674913
+Lesotho,Ischemic heart disease,132.09218369366667
+Malawi,Ischemic heart disease,457.23487435599
+Mozambique,Ischemic heart disease,526.5199960788801
+Namibia,Ischemic heart disease,28.859603801448074
+South Africa,Ischemic heart disease,3682.2481505410287
+Zambia,Ischemic heart disease,536.9300635988086
+Zimbabwe,Ischemic heart disease,701.8754861955746
