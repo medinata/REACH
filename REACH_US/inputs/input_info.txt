@@ -1,0 +1,45 @@
+Documentation of REACH-US input data 
+
+
+REACH_US/inputs/
+county_2017.csv
+STATEFP: state fips code
+COUNTYFP: county fips code
+GEOID17: county ID code
+NAME: county name
+lon, lat: county population-weighted centroids
+pop: county population aged 30 and above
+deaths: baseline mortalities (aged 30 and above)
+
+
+Input.csv
+VSL: value of a statistical life ($)
+R: relative risk from Pope et al (1.09)
+
+obs_info.csv
+annual-average concentrations of PM2.5 species and total PM2.5 from AQS, CASTNET, and IMPROVE networks
+
+simple_grid_2017.csv
+Every source location (US counties) is divided into 100 grids for intra-source dispersion estimates. 
+This file contains the geometric centroids for the sub-grids within each source location
+
+
+REACH_US/inputs/emissions
+For each PM2.5 precursor file
+GEOID17: county ID code
+facility_id: facility id for egus
+facility_name: facility name for egus
+lon, lat: facility coordinates for egus, population-weighted centroids for other source types
+emis: annual emissions in metric tonnes
+stkhgt: stack height in metres
+stkdiam: stack diameter in metres
+stktemp: stack temperature in Kelvin
+stkvel: stack velocity in metres/second
+sector: egu, non-egus, or ground-level
+type: elevated (egu and non-egus) or ground-level
+tribal_fips: tribal ID code for applicable locations
+poll: pollutant
+
+
+REACH_US/inputs/met_data
+ERA5 hourly reanalysis data organized for each US county (see script in Inputs directory)

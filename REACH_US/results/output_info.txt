@@ -1,0 +1,48 @@
+Documentation of REACH-US output data
+
+REACH_US/results
+- Folder contains results for REACH-US with the 2017 National Emissions Inventory
+
+REACH_US/additonal_outputs
+- Folder contains results for REACH-US with the 2005 National Emissions Inventory
+- Folder descriptions and file outputs mirror the REACH_US/results folder
+
+REACH_US/results/concentrations
+baseline_molar: baseline molar concentrations of total nitrate, free ammonium, particulate nitrate (used for NH3 and NOx 
+                marginal social cost scripts)
+calibrated_conc: mass concentrations (ug/m3) of
+		 H2SO4: sulfuric acid
+                 NO3: nitrate
+                 NH4: ammonium
+                 SOA: secondary organic aerosols
+                 PM: primary PM2.5
+                 PM_25: total PM2.5 (sum of above species)
+uncalibrated_conc: mass concentrations (ug/m3) of PM2.5 species prior to calibration
+eval_stats.csv: evaluation metrics for PM2.5 species
+
+REACH_US/results/matrices
+Source-receptor matrices for each PM2.5 precursor and emissions type (egu, nonegu and ground)
+Every row corresponds to a source location (list of sources in are in emissions folder)
+Every column responds to a receptor location (i.e all counties in the US)
+Units are ug/m3/tonne
+To match the matrices with the emissions file for each pollutant, stack matrices in this order: egu, nonegu, ground
+
+REACH_US/results/social_costs
+For each PM2.5 precursor file
+GEOID17: county ID code
+facility_id: facility id for egus
+facility_name: facility name for egus
+lon, lat: facility coordinates for egus, population-weighted centroids for other source types
+emis: annual emissions in metric tonnes
+stkhgt: stack height in metres
+stkdiam: stack diameter in metres
+stktemp: stack temperature in Kelvin
+stkvel: stack velocity in metres/second
+sector: egu, non-egus, or ground-level
+type: elevated (egu and non-egus) or ground-level
+tribal_fips: tribal ID code for applicable locations
+poll: pollutant
+marginal_damage: marginal social cost ($/tonne)
+
+
+
