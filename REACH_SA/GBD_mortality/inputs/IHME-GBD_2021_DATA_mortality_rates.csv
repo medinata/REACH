@@ -1,0 +1,781 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,194,Kingdom of Lesotho,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.25661217095843836,0.39603506100470565,0.15343047276074165
+1,Deaths,194,Kingdom of Lesotho,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.8172578122529657,1.3419507117982983,0.47449988223963363
+1,Deaths,194,Kingdom of Lesotho,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,2.7810656693436058,4.515816749024827,1.586659737599269
+1,Deaths,194,Kingdom of Lesotho,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.609480653878384,14.127633970194,4.861097146489499
+1,Deaths,194,Kingdom of Lesotho,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,23.70762900904384,40.31812912019914,13.961841542673826
+1,Deaths,194,Kingdom of Lesotho,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,46.2118344852691,71.94368200980581,26.82927955507628
+1,Deaths,194,Kingdom of Lesotho,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,74.28148561312304,116.1235997518902,45.517154787934864
+1,Deaths,194,Kingdom of Lesotho,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,96.96113017471176,140.66708607145063,61.36629228579587
+1,Deaths,194,Kingdom of Lesotho,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,134.87338139417588,193.99524994445744,89.2181843434348
+1,Deaths,194,Kingdom of Lesotho,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,141.81812967855245,196.23744607117592,92.91258553943081
+1,Deaths,194,Kingdom of Lesotho,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,129.51607529955714,185.06452214209625,85.63064724651338
+1,Deaths,194,Kingdom of Lesotho,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,127.24974424309812,174.82622737781284,86.78930366269408
+1,Deaths,194,Kingdom of Lesotho,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,128.59251125340222,175.8902573784574,92.54469177435627
+1,Deaths,194,Kingdom of Lesotho,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,1.4141028382152014,1.974446270056267,0.8824345950127891
+1,Deaths,194,Kingdom of Lesotho,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,2.2073308321373752,3.1754061274648864,1.413298969061491
+1,Deaths,194,Kingdom of Lesotho,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,5.095603226606997,7.298437871446076,3.1689622561689683
+1,Deaths,194,Kingdom of Lesotho,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,14.778892308292562,21.891601195444142,9.186048272274673
+1,Deaths,194,Kingdom of Lesotho,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,39.94382737269183,59.23093149669503,24.71702935396082
+1,Deaths,194,Kingdom of Lesotho,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,89.7984491769128,134.56962096984134,55.561991191753634
+1,Deaths,194,Kingdom of Lesotho,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,172.81952481902778,268.2200324104485,102.98801629493623
+1,Deaths,194,Kingdom of Lesotho,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,357.073654136735,496.94252953535414,246.61463956001947
+1,Deaths,194,Kingdom of Lesotho,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,534.376477190178,736.5059731048622,374.1432397677708
+1,Deaths,194,Kingdom of Lesotho,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,733.0988024773135,1003.0391642323932,525.0667949109159
+1,Deaths,194,Kingdom of Lesotho,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,976.957868173313,1353.8013254678683,686.7009363620026
+1,Deaths,194,Kingdom of Lesotho,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,1200.4089421129058,1541.8995867728222,925.6169381914658
+1,Deaths,194,Kingdom of Lesotho,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,1068.0175469334692,1350.9313225094945,817.5926424739143
+1,Deaths,195,Republic of Namibia,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,13.381449132852374,22.658231241060395,7.135632760485633
+1,Deaths,195,Republic of Namibia,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,19.30484882623602,33.020246572359945,9.971529896538868
+1,Deaths,195,Republic of Namibia,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,29.783599520379486,47.074494002407015,17.427934475522118
+1,Deaths,195,Republic of Namibia,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,46.355952570209816,70.82910929503164,26.728025316425477
+1,Deaths,195,Republic of Namibia,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,68.9666112557462,104.58496527964859,42.68858546742741
+1,Deaths,195,Republic of Namibia,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,94.39319509337756,139.844557757132,59.97148774689225
+1,Deaths,195,Republic of Namibia,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,127.56061312150575,191.08273672860219,80.29736364062458
+1,Deaths,195,Republic of Namibia,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,215.20345527716026,311.8085545339861,136.53740415514326
+1,Deaths,195,Republic of Namibia,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,296.73147168294844,432.0381114944975,192.3389865933403
+1,Deaths,195,Republic of Namibia,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,450.70638620776623,626.2162350500299,318.5988460105274
+1,Deaths,195,Republic of Namibia,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,730.9413191781493,1004.9234230159299,511.68806073248146
+1,Deaths,195,Republic of Namibia,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1618.0835578148617,2127.9085575022405,1202.7216068197731
+1,Deaths,195,Republic of Namibia,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,1117.3025959360662,1452.3631685104983,839.5493597495323
+1,Deaths,195,Republic of Namibia,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.5067089509076984,0.9406893979690337,0.2462013495759018
+1,Deaths,195,Republic of Namibia,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.9170632942603244,1.6204252330871007,0.4774245563661062
+1,Deaths,195,Republic of Namibia,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.9597978931142241,3.183855053037706,1.1610101019543941
+1,Deaths,195,Republic of Namibia,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,5.213530451337123,8.100251531681401,3.015483192966207
+1,Deaths,195,Republic of Namibia,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,12.675576112736444,19.502577308543838,7.69287624208145
+1,Deaths,195,Republic of Namibia,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,27.662999015997595,41.18780497996727,18.23657042764162
+1,Deaths,195,Republic of Namibia,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,58.200681182886164,86.96347584932411,38.071546880287045
+1,Deaths,195,Republic of Namibia,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,97.84183072562374,140.0386521543017,66.55536503240917
+1,Deaths,195,Republic of Namibia,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,198.40106608971678,273.65782989426674,142.6638301033256
+1,Deaths,195,Republic of Namibia,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,417.9107799084074,549.5810720379825,304.0829377861905
+1,Deaths,195,Republic of Namibia,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,602.6190125352463,788.0619906291764,442.70883548786014
+1,Deaths,195,Republic of Namibia,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,969.0256206419291,1349.6029310382091,713.9535672952771
+1,Deaths,195,Republic of Namibia,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,762.1935641180692,998.693692223774,591.3912917613557
+1,Deaths,196,Republic of South Africa,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,11.57008726506849,13.280537977490502,9.98179259560686
+1,Deaths,196,Republic of South Africa,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,18.005731531784892,20.686525656829357,15.635383540856234
+1,Deaths,196,Republic of South Africa,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,26.45685179906418,29.704026221034486,23.151060523308374
+1,Deaths,196,Republic of South Africa,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,38.793328035385926,43.98002838990206,34.49863632387904
+1,Deaths,196,Republic of South Africa,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,49.83113203341616,56.36131367753927,43.98799392184223
+1,Deaths,196,Republic of South Africa,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,69.87432728928927,79.48261857786603,62.38429329128993
+1,Deaths,196,Republic of South Africa,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,93.95137069314514,104.75466778063368,83.09472335944659
+1,Deaths,196,Republic of South Africa,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,154.24602633672941,171.0293541469624,136.97339272012897
+1,Deaths,196,Republic of South Africa,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,204.92296161209208,228.97995056149972,183.66989612889515
+1,Deaths,196,Republic of South Africa,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,260.3719312009503,294.18275760075034,231.92974622999134
+1,Deaths,196,Republic of South Africa,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,420.15211255891506,471.8585506229978,369.6335355929892
+1,Deaths,196,Republic of South Africa,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1267.8235442903926,1410.507042680807,1095.7680522930025
+1,Deaths,196,Republic of South Africa,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,849.2236340395183,934.2459036608467,742.0415204880605
+1,Deaths,196,Republic of South Africa,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,1.3866278487972046,1.6486300887832699,1.1645673207391443
+1,Deaths,196,Republic of South Africa,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,3.473146969888193,4.0035192671324635,2.897315694190167
+1,Deaths,196,Republic of South Africa,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,7.387911619562446,8.61245866360224,5.952225778020171
+1,Deaths,196,Republic of South Africa,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,18.573875367730004,21.371509201202,15.30559638826726
+1,Deaths,196,Republic of South Africa,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,35.75094795085526,40.996579630641534,30.456227561312968
+1,Deaths,196,Republic of South Africa,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,69.99410318065516,77.24026063186155,62.52178575960613
+1,Deaths,196,Republic of South Africa,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,117.36539326965311,128.59731486605705,106.78741783504283
+1,Deaths,196,Republic of South Africa,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,171.59778730837385,187.75598772072752,155.61307717164163
+1,Deaths,196,Republic of South Africa,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,267.4914621563888,290.3417614721668,244.55761163828146
+1,Deaths,196,Republic of South Africa,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,357.3136165407003,387.2213984407921,326.57280629879125
+1,Deaths,196,Republic of South Africa,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,580.0937008781784,624.4446733564694,537.5615201057785
+1,Deaths,196,Republic of South Africa,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,1620.179232561666,1758.4127082346663,1447.849518517926
+1,Deaths,196,Republic of South Africa,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1106.5607550265395,1194.0558243773796,1000.6647719303302
+1,Deaths,196,Republic of South Africa,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,2.2176685731064536,2.6419152222291675,1.8738608237829202
+1,Deaths,196,Republic of South Africa,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,4.101560476455486,4.879352136513831,3.331116225407104
+1,Deaths,196,Republic of South Africa,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,7.693394622644045,8.936480304008029,6.061087280868948
+1,Deaths,196,Republic of South Africa,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,17.118453084370262,19.735964764423784,13.995907703081683
+1,Deaths,196,Republic of South Africa,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,33.88802329940876,38.541150912572235,28.751713238920452
+1,Deaths,196,Republic of South Africa,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,69.4175774301656,77.07615270564143,61.713647775695584
+1,Deaths,196,Republic of South Africa,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,117.1784879860037,127.46786978878822,107.05385924315286
+1,Deaths,196,Republic of South Africa,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,239.9905347700432,262.14457242808925,220.4416512260867
+1,Deaths,196,Republic of South Africa,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,385.45180551519053,417.709501904515,355.56588168643594
+1,Deaths,196,Republic of South Africa,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,530.9436490606068,580.9589100349324,481.972235597141
+1,Deaths,196,Republic of South Africa,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,899.11769531335,974.6540094089529,825.6472184429807
+1,Deaths,196,Republic of South Africa,3,Both,21,80+ years,494,Stroke,3,Rate,2018,2286.910678108222,2487.585019873913,2034.72303304301
+1,Deaths,196,Republic of South Africa,3,Both,234,75+ years,494,Stroke,3,Rate,2018,1601.5861569572583,1730.7019685648409,1457.3325082981414
+1,Deaths,195,Republic of Namibia,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.09775875691430612,0.16236452996741957,0.05333909702380786
+1,Deaths,195,Republic of Namibia,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.2690776256299615,0.41938550379689293,0.15239397542874475
+1,Deaths,195,Republic of Namibia,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.7308716001259581,1.1395530004899235,0.43361105365956554
+1,Deaths,195,Republic of Namibia,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,2.007832852955309,3.070126597400697,1.209641206832779
+1,Deaths,195,Republic of Namibia,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,4.943607506688713,7.427622768315221,3.090067473519949
+1,Deaths,195,Republic of Namibia,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.730154163930886,13.670096658629406,6.334934400323287
+1,Deaths,195,Republic of Namibia,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,17.148740171990514,23.78033201773431,11.203021976943852
+1,Deaths,195,Republic of Namibia,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,24.86660324118515,33.59461102599688,17.408970916778248
+1,Deaths,195,Republic of Namibia,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,35.139749592343186,47.43126009266706,25.11572059580748
+1,Deaths,195,Republic of Namibia,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,41.23834243557568,53.87653592201766,30.808913974321868
+1,Deaths,195,Republic of Namibia,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,42.18332548087406,60.0733311703688,28.42485570378101
+1,Deaths,195,Republic of Namibia,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,41.42513355444367,53.80415521366794,31.225955237417846
+1,Deaths,195,Republic of Namibia,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,41.85312363953988,52.426225619535025,31.136041695289464
+1,Deaths,195,Republic of Namibia,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,0.836487646687746,1.3358069929843412,0.4593689211604156
+1,Deaths,195,Republic of Namibia,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,1.3013053087405073,2.068830418330858,0.7770501244762055
+1,Deaths,195,Republic of Namibia,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,2.932114698532821,4.653555833040255,1.7718655020733474
+1,Deaths,195,Republic of Namibia,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,8.586089859199003,13.09302452637187,5.220875954593849
+1,Deaths,195,Republic of Namibia,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,22.46213313818819,34.05226815983445,14.40883292807793
+1,Deaths,195,Republic of Namibia,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,53.22071116368124,76.91447805021198,33.987230946241304
+1,Deaths,195,Republic of Namibia,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,103.10347585392275,151.71649440177123,67.78768959731505
+1,Deaths,195,Republic of Namibia,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,229.4403559359494,321.1137113710224,151.98144730782468
+1,Deaths,195,Republic of Namibia,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,361.03381233202634,497.44685316066347,250.0483466091942
+1,Deaths,195,Republic of Namibia,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,520.1310773329858,680.4132864045557,377.32932481201124
+1,Deaths,195,Republic of Namibia,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,747.6852865779882,1025.3436219213424,542.4187945038994
+1,Deaths,195,Republic of Namibia,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,1000.8658479199422,1240.8003398676133,778.8824438933698
+1,Deaths,195,Republic of Namibia,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,857.9485123270898,1071.0028582905984,651.5687080468219
+1,Deaths,196,Republic of South Africa,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.517795200729277,0.6242517778540546,0.4312337451287038
+1,Deaths,196,Republic of South Africa,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.9228712685079979,1.1775222940320955,0.7585307043822139
+1,Deaths,196,Republic of South Africa,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.6296317939046172,2.219138446377529,1.3377068542205102
+1,Deaths,196,Republic of South Africa,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,3.789643199184588,4.791779993518485,3.231425822075753
+1,Deaths,196,Republic of South Africa,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,8.328355145086087,9.4598656735293,7.3548539831510364
+1,Deaths,196,Republic of South Africa,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,19.208222013598814,21.40822800640422,16.98448937962122
+1,Deaths,196,Republic of South Africa,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,41.20062472980829,46.286426510059734,36.556877254530335
+1,Deaths,196,Republic of South Africa,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,66.34780866375053,73.21190870219047,59.116228938872965
+1,Deaths,196,Republic of South Africa,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,133.17882110161673,146.98416585349435,119.84872117122481
+1,Deaths,196,Republic of South Africa,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,243.55776297796803,268.36805521493903,222.11242167469752
+1,Deaths,196,Republic of South Africa,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,350.7835402839912,387.41254302162963,316.0878924993872
+1,Deaths,196,Republic of South Africa,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,686.6266521195437,757.9388300561175,611.6939420986156
+1,Deaths,196,Republic of South Africa,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,520.7794957684374,568.2267309844291,472.9728071645144
+1,Deaths,195,Republic of Namibia,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,1.2569028205005564,2.2706449818673176,0.5466468750633305
+1,Deaths,195,Republic of Namibia,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,3.37576253509108,5.896951962127822,1.5448804390558752
+1,Deaths,195,Republic of Namibia,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,8.909544443664265,14.19270528784328,5.133600590533898
+1,Deaths,195,Republic of Namibia,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,23.113762771892144,36.81521981611049,14.100696496960573
+1,Deaths,195,Republic of Namibia,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,49.68970145107551,75.65369151181584,31.45908562497882
+1,Deaths,195,Republic of Namibia,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,92.30255405903682,137.03704568499288,61.4809205785648
+1,Deaths,195,Republic of Namibia,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,154.30227107463423,211.7518178001224,104.27969846690056
+1,Deaths,195,Republic of Namibia,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,232.95720510003292,324.23964227534486,163.5544956696314
+1,Deaths,195,Republic of Namibia,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,373.7057375123071,499.14488736335085,263.28998408858354
+1,Deaths,195,Republic of Namibia,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,591.2722080669511,774.610605974492,436.397972695134
+1,Deaths,195,Republic of Namibia,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,956.8821175152667,1222.022685475377,717.0486596614044
+1,Deaths,195,Republic of Namibia,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,1975.654060372099,2461.402974752784,1531.6244704208732
+1,Deaths,195,Republic of Namibia,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1400.5697376337532,1723.1134534803364,1099.5517828046798
+1,Deaths,195,Republic of Namibia,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,2.1743256366949355,3.84447333418872,0.9460060807487924
+1,Deaths,195,Republic of Namibia,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,4.092623254640762,7.358927003991167,1.8941830413299794
+1,Deaths,195,Republic of Namibia,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,8.737584317984638,14.709888355559567,5.117049625818091
+1,Deaths,195,Republic of Namibia,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,20.100933794763332,31.256353753997278,11.735423448029833
+1,Deaths,195,Republic of Namibia,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,43.958760102291556,66.44011452124487,27.398102419202345
+1,Deaths,195,Republic of Namibia,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,90.22475763530427,126.95563857669356,57.225634040105504
+1,Deaths,195,Republic of Namibia,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,157.19364278218947,224.31636257106103,108.66371600630434
+1,Deaths,195,Republic of Namibia,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,342.9775460433439,465.5530054398184,239.70523900822877
+1,Deaths,195,Republic of Namibia,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,569.48710262315,727.7120657931936,406.9033592086409
+1,Deaths,195,Republic of Namibia,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,955.4195734560369,1207.187028116133,728.8535806329869
+1,Deaths,195,Republic of Namibia,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,1632.008705586873,2017.3467855106253,1222.4548046996215
+1,Deaths,195,Republic of Namibia,3,Both,21,80+ years,494,Stroke,3,Rate,2018,3143.3254935387995,3855.887062256365,2427.3944288129464
+1,Deaths,195,Republic of Namibia,3,Both,234,75+ years,494,Stroke,3,Rate,2018,2290.2056196196154,2797.9403965999063,1775.3986749672135
+1,Deaths,197,Kingdom of Eswatini,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.312655482287159,0.5587531675322578,0.1548696171440828
+1,Deaths,197,Kingdom of Eswatini,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.9343211696159871,1.5591263138534792,0.47378630504325675
+1,Deaths,197,Kingdom of Eswatini,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,2.9501449437498506,4.82149581046846,1.4625880851259137
+1,Deaths,197,Kingdom of Eswatini,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,9.021586536178624,14.63837722028276,4.431770487182534
+1,Deaths,197,Kingdom of Eswatini,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,22.97703599790118,39.58621143734874,10.710498172371306
+1,Deaths,197,Kingdom of Eswatini,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,42.92757029027238,74.22133069305815,21.87310294011246
+1,Deaths,197,Kingdom of Eswatini,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,69.0815729908249,109.15076335423332,35.37377477380293
+1,Deaths,197,Kingdom of Eswatini,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,88.33481387385366,141.3327182762609,48.80023533538477
+1,Deaths,197,Kingdom of Eswatini,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,117.64043953058678,173.77733432845423,67.55390472330576
+1,Deaths,197,Kingdom of Eswatini,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,135.5267961418017,201.078734520261,75.35065053891343
+1,Deaths,197,Kingdom of Eswatini,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,142.9864641172303,214.63168426441936,80.30677293350143
+1,Deaths,197,Kingdom of Eswatini,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,152.9198467723478,233.7040971856177,91.26708714226508
+1,Deaths,197,Kingdom of Eswatini,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,146.48657957586659,211.55298308867646,89.17856862254983
+1,Deaths,182,Republic of Malawi,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,3.769270216782662,5.217939494330132,2.645571403900033
+1,Deaths,182,Republic of Malawi,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,6.491186748163811,9.318762654130659,4.397288852820893
+1,Deaths,182,Republic of Malawi,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,12.446714182265234,17.651717588823363,8.284493056911668
+1,Deaths,182,Republic of Malawi,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,28.01058920180641,39.31225550155205,19.400354426974314
+1,Deaths,182,Republic of Malawi,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,44.31489215130659,61.67507587004031,29.65228616727143
+1,Deaths,182,Republic of Malawi,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,72.26913540340762,98.02129551459848,49.27643612843876
+1,Deaths,182,Republic of Malawi,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,130.2767339214298,175.284657537278,92.94583374113844
+1,Deaths,182,Republic of Malawi,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,216.94726923186764,288.13306779322636,160.41124052836324
+1,Deaths,182,Republic of Malawi,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,327.8067445384988,420.6548928293329,243.86337107143063
+1,Deaths,182,Republic of Malawi,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,539.8928091862875,677.6295669463594,407.22336915848024
+1,Deaths,182,Republic of Malawi,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,736.3451550918892,946.6038565295197,545.7834378302712
+1,Deaths,182,Republic of Malawi,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,1309.140595327915,1651.3829779534867,1030.4628546540089
+1,Deaths,182,Republic of Malawi,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,985.2154835859398,1215.8105290499434,791.1373978946042
+1,Deaths,182,Republic of Malawi,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,4.344888254326727,5.955107444873597,2.9917940710945126
+1,Deaths,182,Republic of Malawi,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,9.503004950333107,13.054214572834244,6.591602330849727
+1,Deaths,182,Republic of Malawi,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,14.128060020662582,19.78690722557126,9.56480444591794
+1,Deaths,182,Republic of Malawi,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,32.396767163528395,44.75020736591859,22.611023145510043
+1,Deaths,182,Republic of Malawi,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,63.98983558468,83.10544980414406,46.503983661986254
+1,Deaths,182,Republic of Malawi,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,118.55946170962049,153.54271847878445,85.26088601232979
+1,Deaths,182,Republic of Malawi,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,202.20458692511656,251.06918709349256,154.69429769654496
+1,Deaths,182,Republic of Malawi,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,371.39119003901175,469.4422301057284,292.50081873221603
+1,Deaths,182,Republic of Malawi,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,629.4761168446182,781.0531014486052,491.1678275060979
+1,Deaths,182,Republic of Malawi,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,969.5383820668084,1180.7372794414116,774.1163965803636
+1,Deaths,182,Republic of Malawi,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,1576.6533275717438,1956.1750002966487,1225.6336212076258
+1,Deaths,182,Republic of Malawi,3,Both,21,80+ years,494,Stroke,3,Rate,2018,2615.5089059253464,3235.3917189365916,2057.4164875946526
+1,Deaths,182,Republic of Malawi,3,Both,234,75+ years,494,Stroke,3,Rate,2018,2028.0192269514655,2458.762334914205,1637.5980627413037
+1,Deaths,168,Republic of Angola,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,1.8937202382800855,2.7171556147535334,1.2513737145779287
+1,Deaths,168,Republic of Angola,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,4.814357419557857,6.94684131026174,3.2140192948533013
+1,Deaths,168,Republic of Angola,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,9.2649680928229,13.969258551187274,6.1047535372492705
+1,Deaths,168,Republic of Angola,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,22.561564410311018,32.787509439402434,14.608191009464825
+1,Deaths,168,Republic of Angola,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,45.872900978600825,67.5761921523289,30.753701063150288
+1,Deaths,168,Republic of Angola,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,86.97272876257216,122.34580598612449,59.748997934609626
+1,Deaths,168,Republic of Angola,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,159.09271432537577,223.84332476862258,112.15509211920437
+1,Deaths,168,Republic of Angola,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,285.7641285218815,374.20579634333444,204.66108603785028
+1,Deaths,168,Republic of Angola,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,482.4041736292724,626.715906807817,359.0562527193057
+1,Deaths,168,Republic of Angola,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,786.144720414421,1024.50960713731,582.2877529835414
+1,Deaths,168,Republic of Angola,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,1136.0902589483621,1500.335842280489,847.2688077979064
+1,Deaths,168,Republic of Angola,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,2012.087862557743,2483.7816224154126,1579.2885417085845
+1,Deaths,168,Republic of Angola,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1478.773402010332,1841.3185439820945,1186.1667162173012
+1,Deaths,168,Republic of Angola,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,2.7781804515576956,3.8843580581588584,1.8626455391933643
+1,Deaths,168,Republic of Angola,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,5.370576283704881,7.4401837674522175,3.5775779962374332
+1,Deaths,168,Republic of Angola,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,9.587048093440163,14.00258942002468,6.395917360164279
+1,Deaths,168,Republic of Angola,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,21.903050451365655,30.921249442648186,14.820180082301023
+1,Deaths,168,Republic of Angola,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,44.634235551085624,62.230167921097525,30.738776956638528
+1,Deaths,168,Republic of Angola,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,85.56587781590412,117.9156093704959,58.718019895068856
+1,Deaths,168,Republic of Angola,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,152.25716910958536,206.78974434669203,108.50129623103379
+1,Deaths,168,Republic of Angola,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,294.24782619075904,384.20553020742705,213.20995212430887
+1,Deaths,168,Republic of Angola,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,523.0766620984508,668.807246146642,398.3261501856486
+1,Deaths,168,Republic of Angola,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,917.2516546738423,1160.5402050096966,679.4713058234089
+1,Deaths,168,Republic of Angola,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,1409.613581220145,1862.2749556719182,1050.3362844359322
+1,Deaths,168,Republic of Angola,3,Both,21,80+ years,494,Stroke,3,Rate,2018,2278.967056644138,2856.9881815016292,1826.7014326664062
+1,Deaths,168,Republic of Angola,3,Both,234,75+ years,494,Stroke,3,Rate,2018,1749.6975953346216,2188.3665081657755,1396.783045127651
+1,Deaths,196,Republic of South Africa,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.23962592915723008,0.3235200310369901,0.19551572396234898
+1,Deaths,196,Republic of South Africa,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.728597804215549,1.1337924116305018,0.6137989284281647
+1,Deaths,196,Republic of South Africa,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,1.905813678594008,2.5691268486222176,1.5975511104847429
+1,Deaths,196,Republic of South Africa,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,5.684769426738621,6.424996899569238,4.922955328310587
+1,Deaths,196,Republic of South Africa,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,15.375827315947845,17.99648621775393,13.128709301844959
+1,Deaths,196,Republic of South Africa,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,34.855558932210435,39.950504707977466,30.370669307947228
+1,Deaths,196,Republic of South Africa,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,61.34569005086416,69.04937394388901,54.92636477041061
+1,Deaths,196,Republic of South Africa,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,79.22630064398001,87.56661723154352,71.09323864586729
+1,Deaths,196,Republic of South Africa,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,109.72731268212368,121.44993613162941,99.76604133466067
+1,Deaths,196,Republic of South Africa,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,125.21963374201697,137.65544826416365,113.08920573140878
+1,Deaths,196,Republic of South Africa,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,139.44353745665893,157.0334633051213,123.64993728491844
+1,Deaths,196,Republic of South Africa,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,176.73622216487797,195.05739501367825,157.78888422999603
+1,Deaths,196,Republic of South Africa,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,158.3202252496726,174.4817369658157,142.0786727751317
+1,Deaths,196,Republic of South Africa,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,1.280634097671901,1.4565376790910853,1.1264308755813492
+1,Deaths,196,Republic of South Africa,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,2.059097453941235,2.314861393579972,1.7909094682947824
+1,Deaths,196,Republic of South Africa,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,4.268487417364475,4.796782471102605,3.7132001492311484
+1,Deaths,196,Republic of South Africa,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,11.876397143727496,13.501497635363455,10.349358535297155
+1,Deaths,196,Republic of South Africa,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,28.408348341612655,31.48354135147244,25.299411693535202
+1,Deaths,196,Republic of South Africa,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,66.56664115469464,72.86248026453357,60.40193965469967
+1,Deaths,196,Republic of South Africa,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,127.08930642333345,139.98221294982275,115.13383321963934
+1,Deaths,196,Republic of South Africa,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,264.63800874578396,288.51993924585196,242.79390255610906
+1,Deaths,196,Republic of South Africa,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,400.01900344221986,433.65139101133815,365.18941150157065
+1,Deaths,196,Republic of South Africa,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,496.0764649863358,539.2714329623889,451.437540775201
+1,Deaths,196,Republic of South Africa,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,701.9416053277736,766.5516964594286,630.5482095580761
+1,Deaths,196,Republic of South Africa,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,1233.6322385202222,1332.045167472131,1111.583695652868
+1,Deaths,196,Republic of South Africa,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,971.0710113700151,1038.247670720612,885.9885540400991
+1,Deaths,197,Kingdom of Eswatini,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,2.060673360476143,3.423177907755716,1.0620235559422424
+1,Deaths,197,Kingdom of Eswatini,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,5.257753512527904,8.307859305004094,2.893117732111688
+1,Deaths,197,Kingdom of Eswatini,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,14.296723136151304,22.920246339056618,7.901013062838695
+1,Deaths,197,Kingdom of Eswatini,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,37.08541740865201,63.57776597898323,20.342236758274304
+1,Deaths,197,Kingdom of Eswatini,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,77.0908388837162,135.66049766280923,41.72831224555049
+1,Deaths,197,Kingdom of Eswatini,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,125.6053316056146,209.48534513096487,73.90525500075762
+1,Deaths,197,Kingdom of Eswatini,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,197.75461333996822,322.9163011239336,117.0111848180004
+1,Deaths,197,Kingdom of Eswatini,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,278.628554742129,427.1128701085313,168.95962558491257
+1,Deaths,197,Kingdom of Eswatini,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,424.0156991430246,657.5106204798226,274.9591354915456
+1,Deaths,197,Kingdom of Eswatini,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,622.9100073854758,931.298697908988,413.4232096241596
+1,Deaths,197,Kingdom of Eswatini,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,986.2201331669448,1445.794651987082,660.6498042022298
+1,Deaths,197,Kingdom of Eswatini,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,1955.8370549650233,2590.567983388487,1427.422952523577
+1,Deaths,197,Kingdom of Eswatini,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1327.8732532339873,1763.7660466246587,968.1095263822218
+1,Deaths,197,Kingdom of Eswatini,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,3.9482439221808976,6.802605770162957,2.0488139932218474
+1,Deaths,197,Kingdom of Eswatini,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,6.904158585007172,11.11588196971655,3.811420277832627
+1,Deaths,197,Kingdom of Eswatini,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,14.87126438411976,24.122123282785186,8.0871349635475
+1,Deaths,197,Kingdom of Eswatini,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,34.33438244107487,60.786346516190775,18.447071974411454
+1,Deaths,197,Kingdom of Eswatini,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,72.75673178697828,130.77151996404945,38.90810048458923
+1,Deaths,197,Kingdom of Eswatini,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,131.3054824826556,227.0928375327367,77.62734710782956
+1,Deaths,197,Kingdom of Eswatini,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,213.65602966010965,343.9969812061295,129.58944373333213
+1,Deaths,197,Kingdom of Eswatini,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,424.00275046497865,650.2115327126068,276.84685031369713
+1,Deaths,197,Kingdom of Eswatini,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,676.6297235459087,982.2845782057889,457.14538960454365
+1,Deaths,197,Kingdom of Eswatini,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,1070.0910102623848,1509.020580975541,735.8296005148761
+1,Deaths,197,Kingdom of Eswatini,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,1759.748381059035,2440.272316385684,1204.1419303585326
+1,Deaths,197,Kingdom of Eswatini,3,Both,21,80+ years,494,Stroke,3,Rate,2018,3165.942619537998,4015.347351531377,2405.6191468014995
+1,Deaths,197,Kingdom of Eswatini,3,Both,234,75+ years,494,Stroke,3,Rate,2018,2255.2333898248867,2907.82749634923,1672.0161409212506
+1,Deaths,197,Kingdom of Eswatini,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,20.554577790644007,30.76389996642142,11.589093216786337
+1,Deaths,197,Kingdom of Eswatini,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,29.01316473871034,41.78296923381731,16.875573047618545
+1,Deaths,197,Kingdom of Eswatini,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,45.27981909833732,66.9251361883674,27.12672546839651
+1,Deaths,197,Kingdom of Eswatini,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,70.8025987136658,110.46167292979568,41.5800686857437
+1,Deaths,197,Kingdom of Eswatini,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,99.89726419437524,154.5753570188477,59.79936044101057
+1,Deaths,197,Kingdom of Eswatini,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,125.70233903374799,192.79952178638996,80.64893618271479
+1,Deaths,197,Kingdom of Eswatini,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,159.0081728261038,256.2173611543136,99.86649751610557
+1,Deaths,197,Kingdom of Eswatini,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,248.45858417720268,367.98412622051876,164.41047743952663
+1,Deaths,197,Kingdom of Eswatini,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,318.7899088268098,464.47608990717384,207.32829711613584
+1,Deaths,197,Kingdom of Eswatini,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,443.70954244261594,622.2065690295266,301.2141653786243
+1,Deaths,197,Kingdom of Eswatini,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,709.6965793155405,966.7035622544671,491.79975823945017
+1,Deaths,197,Kingdom of Eswatini,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1492.8074878029695,1867.7378831574586,1122.9445419028352
+1,Deaths,197,Kingdom of Eswatini,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,985.6326518287049,1241.8140976354543,756.8647734661507
+1,Deaths,182,Republic of Malawi,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,2.7928972713734503,3.8342556400656878,2.0256626615272593
+1,Deaths,182,Republic of Malawi,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,3.9186930435828358,5.53924863110019,2.7910727330228218
+1,Deaths,182,Republic of Malawi,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,6.676510826301992,9.022239338070442,4.8831085586182885
+1,Deaths,182,Republic of Malawi,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,12.127834414947163,16.524044227419356,8.808918730576506
+1,Deaths,182,Republic of Malawi,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,23.943881580980698,32.76575210962859,16.40476076668905
+1,Deaths,182,Republic of Malawi,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,48.78106943044841,67.4393578649572,35.143047165660256
+1,Deaths,182,Republic of Malawi,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,83.88047100918361,116.61683703460271,60.28053116461383
+1,Deaths,182,Republic of Malawi,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,139.66288832675525,191.73165815802082,101.03442789227127
+1,Deaths,182,Republic of Malawi,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,195.18847434075923,257.20320097363106,142.9594908506874
+1,Deaths,182,Republic of Malawi,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,299.8285947268602,393.27300078496376,224.31621458818893
+1,Deaths,182,Republic of Malawi,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,421.1001423966396,548.4166494182632,316.40549732399023
+1,Deaths,182,Republic of Malawi,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,677.525036719374,830.261385831444,550.8885627509784
+1,Deaths,182,Republic of Malawi,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,532.5125999711188,648.0087920314304,435.6200415602006
+1,Deaths,184,Republic of Mozambique,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,3.3386957908820185,4.6777621943338605,2.1770867243433485
+1,Deaths,184,Republic of Mozambique,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,5.042919458101254,7.400073452269996,3.2885133500586434
+1,Deaths,184,Republic of Mozambique,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,9.468668548057224,13.919001882661536,5.921906533476032
+1,Deaths,184,Republic of Mozambique,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,17.563796924487697,25.784180218066453,11.74005395066994
+1,Deaths,184,Republic of Mozambique,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,32.955573955872076,49.20892548544835,21.634962370314938
+1,Deaths,184,Republic of Mozambique,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,63.93763239969744,92.86462322521639,42.86606624592766
+1,Deaths,184,Republic of Mozambique,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,104.48547814102741,146.11557453349695,69.85000199729639
+1,Deaths,184,Republic of Mozambique,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,163.14777398368167,220.77939373331625,109.99643179496793
+1,Deaths,184,Republic of Mozambique,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,209.623089201614,281.4848874914203,147.8103640223186
+1,Deaths,184,Republic of Mozambique,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,285.7439599677459,391.94952115843614,201.48607978025717
+1,Deaths,184,Republic of Mozambique,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,371.46223354456936,494.49643768540244,271.6073684816506
+1,Deaths,184,Republic of Mozambique,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,701.116855789786,881.5252035865815,531.0887639492855
+1,Deaths,184,Republic of Mozambique,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,514.126261015395,636.8442007094006,402.78304899548124
+1,Deaths,197,Kingdom of Eswatini,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.9087092217766437,1.4474316168927028,0.4469999376802134
+1,Deaths,197,Kingdom of Eswatini,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.6268038618816296,2.6739889491903317,0.8944115539424647
+1,Deaths,197,Kingdom of Eswatini,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,3.496160694966093,5.777470293028631,1.810773281647728
+1,Deaths,197,Kingdom of Eswatini,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,9.23086542288378,14.576205408031267,5.505665801596897
+1,Deaths,197,Kingdom of Eswatini,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,21.77707939667761,34.43543481082612,12.601165992728243
+1,Deaths,197,Kingdom of Eswatini,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,42.23450612663268,67.79091840442268,24.283195776565528
+1,Deaths,197,Kingdom of Eswatini,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,81.27359430223049,122.70814205309081,50.79154886826352
+1,Deaths,197,Kingdom of Eswatini,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,127.1839282825625,196.19887190015922,80.64669283910695
+1,Deaths,197,Kingdom of Eswatini,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,243.1076267283679,358.13533351203074,158.67464701687743
+1,Deaths,197,Kingdom of Eswatini,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,456.85562103893534,643.4602710519318,319.51878110879227
+1,Deaths,197,Kingdom of Eswatini,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,633.5983767888073,894.5043692683953,435.6467060007699
+1,Deaths,197,Kingdom of Eswatini,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,955.087947855046,1294.9386792992186,656.5513738457063
+1,Deaths,197,Kingdom of Eswatini,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,746.8780778279664,979.4337964100018,542.314990441409
+1,Deaths,182,Republic of Malawi,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,11.53203272208449,16.067633174916676,8.415803330846225
+1,Deaths,182,Republic of Malawi,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,13.055776657027474,17.764187679966184,9.235832610324888
+1,Deaths,182,Republic of Malawi,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,16.716436426694102,22.896245217810076,11.99310010944252
+1,Deaths,182,Republic of Malawi,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,28.277661229190777,39.14044679503255,20.313334347901424
+1,Deaths,182,Republic of Malawi,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,41.22888838009993,57.03459896568833,30.17026145522885
+1,Deaths,182,Republic of Malawi,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,61.031708842000555,83.26672150010108,43.98431590654664
+1,Deaths,182,Republic of Malawi,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,98.69456545088765,135.7814320150113,69.1610930995257
+1,Deaths,182,Republic of Malawi,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,176.73823222554338,240.83569271490418,127.11419347834602
+1,Deaths,182,Republic of Malawi,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,266.2203163313334,350.46621965290655,188.29734774883624
+1,Deaths,182,Republic of Malawi,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,463.85073482918426,626.7429358019081,332.01209306113134
+1,Deaths,182,Republic of Malawi,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,824.629438516059,1065.7928390332925,594.0620322151025
+1,Deaths,182,Republic of Malawi,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1620.4984816329138,1983.756366325087,1288.2471688963883
+1,Deaths,182,Republic of Malawi,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,1170.4216293846205,1416.7127009988972,932.6997484855771
+1,Deaths,182,Republic of Malawi,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.5198211747924685,0.8914492292582066,0.28451212549918836
+1,Deaths,182,Republic of Malawi,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.9771443387726819,1.4960215524251692,0.5713781153235369
+1,Deaths,182,Republic of Malawi,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.6830308400698974,2.630436433688166,1.005258396494127
+1,Deaths,182,Republic of Malawi,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,3.096728712969911,4.664122184547923,1.851710398448101
+1,Deaths,182,Republic of Malawi,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,8.133016997217485,12.322931135445232,5.033722068249265
+1,Deaths,182,Republic of Malawi,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,14.119048184509133,19.39875952590308,9.655730980047423
+1,Deaths,182,Republic of Malawi,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,32.73635457981417,44.651138797238886,22.034995166742178
+1,Deaths,182,Republic of Malawi,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,66.44454898369118,91.01662857429498,48.51642378563133
+1,Deaths,182,Republic of Malawi,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,121.78056848381786,162.78755580962712,90.67775230433152
+1,Deaths,182,Republic of Malawi,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,217.85212606483884,291.72542835506704,161.90102355020656
+1,Deaths,182,Republic of Malawi,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,300.7584461693883,405.02444314458137,213.2644020357164
+1,Deaths,182,Republic of Malawi,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,528.7027646365052,669.1969421116238,402.3301388479547
+1,Deaths,182,Republic of Malawi,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,399.7965554669909,504.01772553557583,306.61497399492737
+1,Deaths,198,Republic of Zimbabwe,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.3308661914266557,0.4920851301863783,0.20480944981421428
+1,Deaths,198,Republic of Zimbabwe,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.8736453217737783,1.295618823083896,0.5485987235273567
+1,Deaths,198,Republic of Zimbabwe,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,2.180870321449988,3.270713927984615,1.3681784422358874
+1,Deaths,198,Republic of Zimbabwe,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,5.334013238070298,7.8583497962002244,3.458720026524362
+1,Deaths,198,Republic of Zimbabwe,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,11.988445937806308,17.804485666802627,7.550460779248027
+1,Deaths,198,Republic of Zimbabwe,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,21.14596885052765,30.06619134797372,14.352245977600239
+1,Deaths,198,Republic of Zimbabwe,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,33.53580222862901,45.19407197136968,23.968418493264036
+1,Deaths,198,Republic of Zimbabwe,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,50.92753625830258,68.3184658514643,37.016057415390264
+1,Deaths,198,Republic of Zimbabwe,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,74.6595019982387,99.59963410588865,56.03565019784031
+1,Deaths,198,Republic of Zimbabwe,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,102.99099162163608,133.72305063740964,78.57421223266833
+1,Deaths,198,Republic of Zimbabwe,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,117.24891720500219,154.12029700406862,87.72808030753295
+1,Deaths,198,Republic of Zimbabwe,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,117.3492200575264,148.45419348796307,88.75464603554657
+1,Deaths,198,Republic of Zimbabwe,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,117.2903809733787,145.33444190217213,94.52366608232298
+1,Deaths,198,Republic of Zimbabwe,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,1.1254236456353977,1.6098485610981248,0.7560607584970737
+1,Deaths,198,Republic of Zimbabwe,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,1.5516391880011282,2.193821690820574,1.049224944478737
+1,Deaths,198,Republic of Zimbabwe,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,3.1810066258565635,4.475837594873341,2.1168315554108648
+1,Deaths,198,Republic of Zimbabwe,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,8.920471691078873,12.759515138335104,5.886876990469277
+1,Deaths,198,Republic of Zimbabwe,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,23.914078287751295,35.76615789713598,15.59639740873865
+1,Deaths,198,Republic of Zimbabwe,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,62.640723736697126,85.18352209329574,43.37738274414335
+1,Deaths,198,Republic of Zimbabwe,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,124.67629677778683,177.66662160107822,84.39275199907361
+1,Deaths,198,Republic of Zimbabwe,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,244.43313023151634,341.10109769873554,175.49737841532033
+1,Deaths,198,Republic of Zimbabwe,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,347.22867619462227,458.9864761804017,252.82658590814927
+1,Deaths,198,Republic of Zimbabwe,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,474.56284241199216,608.3919091287388,352.92287680269783
+1,Deaths,198,Republic of Zimbabwe,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,613.1634158309141,820.2110268312813,448.1269167126907
+1,Deaths,198,Republic of Zimbabwe,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,824.2975459031323,1008.4502728182008,651.968934196193
+1,Deaths,198,Republic of Zimbabwe,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,700.44325329689,859.4467467698087,559.3472447219885
+1,Deaths,197,Kingdom of Eswatini,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,2.188532848607826,3.2070831568217826,1.2294774437821097
+1,Deaths,197,Kingdom of Eswatini,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,3.3772871937911297,4.986246545835447,1.9427493075543893
+1,Deaths,197,Kingdom of Eswatini,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,7.428074006169979,11.364280656857893,4.049209215495492
+1,Deaths,197,Kingdom of Eswatini,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,21.508312112657187,32.31596481679099,11.297220800921716
+1,Deaths,197,Kingdom of Eswatini,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,57.36008192294014,88.59371755490044,34.45537491308638
+1,Deaths,197,Kingdom of Eswatini,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,121.59018261193228,183.30690099846348,75.32739740087024
+1,Deaths,197,Kingdom of Eswatini,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,223.1640827323278,329.20130272891686,141.63412401046708
+1,Deaths,197,Kingdom of Eswatini,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,458.2393589211114,660.0961424473937,307.65970252045895
+1,Deaths,197,Kingdom of Eswatini,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,657.8501726940493,920.052162824828,457.9722447136871
+1,Deaths,197,Kingdom of Eswatini,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,889.9298590170971,1218.2562652729491,616.2361008247856
+1,Deaths,197,Kingdom of Eswatini,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,1204.776861103041,1597.0772643994019,883.0371341530779
+1,Deaths,197,Kingdom of Eswatini,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,1549.473101205858,1978.6256549341626,1194.2406846306983
+1,Deaths,197,Kingdom of Eswatini,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,1326.2336377526453,1670.282542826983,1050.425235658949
+1,Deaths,198,Republic of Zimbabwe,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,22.998499124054547,32.66127493525022,15.604620704627948
+1,Deaths,198,Republic of Zimbabwe,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,29.84493018923677,41.555275154585246,20.28030249119797
+1,Deaths,198,Republic of Zimbabwe,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,43.99946669662701,61.949805057278205,27.874680658374004
+1,Deaths,198,Republic of Zimbabwe,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,65.94435369700471,95.37098228945042,44.11166486453565
+1,Deaths,198,Republic of Zimbabwe,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,105.92685640615485,153.7067027502355,71.4555303655077
+1,Deaths,198,Republic of Zimbabwe,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,174.36553727457482,242.03675660162006,115.49595222412205
+1,Deaths,198,Republic of Zimbabwe,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,233.96168751459015,327.76909364622253,153.71290764528501
+1,Deaths,198,Republic of Zimbabwe,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,337.0036244322203,465.9898779376531,232.61999187463664
+1,Deaths,198,Republic of Zimbabwe,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,438.7555493412478,588.7517565778186,307.8212052813306
+1,Deaths,198,Republic of Zimbabwe,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,661.5802935511572,876.980971880402,467.4459401885154
+1,Deaths,198,Republic of Zimbabwe,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,1041.649171511588,1408.4988179743675,748.0495973405001
+1,Deaths,198,Republic of Zimbabwe,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,2241.251287807462,2717.1450482939686,1699.1412612249933
+1,Deaths,198,Republic of Zimbabwe,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,1537.5475736237026,1878.814131642221,1160.8753283355454
+1,Deaths,198,Republic of Zimbabwe,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,2.3508147983818546,3.606013089417566,1.46233141117413
+1,Deaths,198,Republic of Zimbabwe,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,4.781210479881811,7.601550076608043,2.9855665344639326
+1,Deaths,198,Republic of Zimbabwe,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,10.246372870337218,15.78346934269995,6.27659182452797
+1,Deaths,198,Republic of Zimbabwe,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,24.35460522863544,38.02475887914396,15.165756015716184
+1,Deaths,198,Republic of Zimbabwe,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,52.246455071046014,79.81884440489482,33.748380913149894
+1,Deaths,198,Republic of Zimbabwe,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,101.82275397802971,149.88703987322043,68.23781223283949
+1,Deaths,198,Republic of Zimbabwe,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,173.60714096375435,246.1458355748789,122.67520529050132
+1,Deaths,198,Republic of Zimbabwe,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,251.9408834223275,332.62021325573636,184.68727377883735
+1,Deaths,198,Republic of Zimbabwe,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,405.78307748406434,532.6434045552394,308.40336891038777
+1,Deaths,198,Republic of Zimbabwe,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,684.9383870874605,862.4749629915049,535.3540139203894
+1,Deaths,198,Republic of Zimbabwe,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,1150.895621287623,1476.6543026060178,898.0695866310514
+1,Deaths,198,Republic of Zimbabwe,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,2403.163171721889,2868.853676334477,1952.860839307621
+1,Deaths,198,Republic of Zimbabwe,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1668.5651625807957,1990.788950498791,1396.2116260278824
+1,Deaths,198,Republic of Zimbabwe,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,5.0551245679549375,7.502219415878175,3.3807661869121532
+1,Deaths,198,Republic of Zimbabwe,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,7.275474426534765,10.829018963845591,4.793832489266374
+1,Deaths,198,Republic of Zimbabwe,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,13.200607295893473,19.751939627795362,8.284103580037081
+1,Deaths,198,Republic of Zimbabwe,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,25.731481280510565,37.92082494990432,16.481588251106405
+1,Deaths,198,Republic of Zimbabwe,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,58.58577894570534,86.02368960721589,37.40616023754058
+1,Deaths,198,Republic of Zimbabwe,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,142.79046488819228,201.86658181926666,99.40680753076265
+1,Deaths,198,Republic of Zimbabwe,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,242.95640164187898,329.2072424520894,174.00808116484762
+1,Deaths,198,Republic of Zimbabwe,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,425.1175973216992,564.3129870753818,312.2434502224348
+1,Deaths,198,Republic of Zimbabwe,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,645.5980504386506,812.7469277376392,495.94262504486977
+1,Deaths,198,Republic of Zimbabwe,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,993.0209871207945,1230.6621104213564,785.0346574731682
+1,Deaths,198,Republic of Zimbabwe,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,1595.7503425901984,1973.1714969308298,1247.3989855816346
+1,Deaths,198,Republic of Zimbabwe,3,Both,21,80+ years,494,Stroke,3,Rate,2018,2920.7790088517304,3388.292771199218,2443.1140654334845
+1,Deaths,198,Republic of Zimbabwe,3,Both,234,75+ years,494,Stroke,3,Rate,2018,2143.498291202333,2481.520454398453,1800.7590922572542
+1,Deaths,184,Republic of Mozambique,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.07088960068156568,0.10983554859400045,0.04409725473313241
+1,Deaths,184,Republic of Mozambique,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.18294858788666693,0.29513404853756486,0.10985284351178903
+1,Deaths,184,Republic of Mozambique,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.47790094290470364,0.7338157479102161,0.30175257643447057
+1,Deaths,184,Republic of Mozambique,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,1.4857809648794988,2.271624753469318,0.9408027482610921
+1,Deaths,184,Republic of Mozambique,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,3.717514231268399,6.044049549878495,2.3010856506417987
+1,Deaths,184,Republic of Mozambique,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.083936041940907,12.092943311837988,5.516719827665037
+1,Deaths,184,Republic of Mozambique,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,16.124730278246957,22.42831512827312,11.04913647057863
+1,Deaths,184,Republic of Mozambique,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,25.69226344574816,34.97248031692805,18.393343868922525
+1,Deaths,184,Republic of Mozambique,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,40.91955082299363,54.480825395542105,29.759101878702335
+1,Deaths,184,Republic of Mozambique,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,54.78146234966805,76.84901981904886,38.24819299514216
+1,Deaths,184,Republic of Mozambique,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,59.90844264303245,80.10067199168103,41.7669488576424
+1,Deaths,184,Republic of Mozambique,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,74.47261010591663,100.30457723970088,53.19476156791923
+1,Deaths,184,Republic of Mozambique,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,66.21135073776264,85.25078193746305,48.73242994100269
+1,Deaths,191,Republic of Zambia,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.5386809209538135,0.9308391506491973,0.30551722096594935
+1,Deaths,191,Republic of Zambia,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.0441469287001857,1.625604681442657,0.5900659742375088
+1,Deaths,191,Republic of Zambia,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.8133821099038798,2.686833072404121,1.110175550621304
+1,Deaths,191,Republic of Zambia,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,3.17459381852297,5.106824553394477,1.7979642790563855
+1,Deaths,191,Republic of Zambia,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,8.290655378189753,12.762560383616417,5.210662962718878
+1,Deaths,191,Republic of Zambia,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,14.683844537397382,21.46109978008988,9.110659474106427
+1,Deaths,191,Republic of Zambia,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,33.34125881257882,48.97788301633283,22.45570862348977
+1,Deaths,191,Republic of Zambia,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,66.14631153812297,93.34184836428285,45.58783740914873
+1,Deaths,191,Republic of Zambia,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,119.52175201248023,164.11729724331605,83.98347955754156
+1,Deaths,191,Republic of Zambia,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,224.61551129542838,300.8861464926432,158.9802459936783
+1,Deaths,191,Republic of Zambia,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,320.34786442222105,429.69327300670795,229.36034575489697
+1,Deaths,191,Republic of Zambia,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,566.522026640773,727.5966084916121,427.03258805126393
+1,Deaths,191,Republic of Zambia,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,426.16438753447557,542.4972528943013,330.17988165943365
+1,Deaths,193,Republic of Botswana,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.1903349847096044,0.2757834811722405,0.12833020118253347
+1,Deaths,193,Republic of Botswana,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.5456351058515385,0.8229629131015386,0.3421446396544486
+1,Deaths,193,Republic of Botswana,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,1.6062253346387645,2.372444101796695,1.0492001551261823
+1,Deaths,193,Republic of Botswana,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,4.5261346561842615,6.717103824747094,3.067331717714144
+1,Deaths,193,Republic of Botswana,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.979751016809425,15.741296958415218,7.363991583574699
+1,Deaths,193,Republic of Botswana,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,23.112357663590725,32.580671065626944,15.988340838385895
+1,Deaths,193,Republic of Botswana,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,39.37408620976889,53.80377115587034,27.360410981247377
+1,Deaths,193,Republic of Botswana,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,57.11892816011951,82.8199126848133,37.72048835547807
+1,Deaths,193,Republic of Botswana,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,88.39283823026898,122.21061830239245,61.95850300142052
+1,Deaths,193,Republic of Botswana,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,116.35973363687525,158.55451794861224,80.66262245808106
+1,Deaths,193,Republic of Botswana,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,125.88171167377796,174.5577270653367,88.73846861060672
+1,Deaths,193,Republic of Botswana,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,129.7124343576265,168.86264789296374,97.15803384029574
+1,Deaths,193,Republic of Botswana,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,127.6922886560108,167.98584020852851,95.26430362595175
+1,Deaths,198,Republic of Zimbabwe,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.37942972413492176,0.606201210385343,0.21517636707912435
+1,Deaths,198,Republic of Zimbabwe,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.5868053733264612,0.934989956823126,0.3524064672606276
+1,Deaths,198,Republic of Zimbabwe,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.1919045250807148,1.9402523813762813,0.6993989366427887
+1,Deaths,198,Republic of Zimbabwe,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,3.1391097466414712,5.154777121856383,1.8559402659875446
+1,Deaths,198,Republic of Zimbabwe,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,7.246055543003922,10.849700849715848,4.616007757815216
+1,Deaths,198,Republic of Zimbabwe,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,14.358162026505454,21.454069523223644,9.358037358845564
+1,Deaths,198,Republic of Zimbabwe,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,27.866783086496334,42.23892910362061,17.382824192985712
+1,Deaths,198,Republic of Zimbabwe,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,49.11771114902699,70.22740427263399,32.10953276893466
+1,Deaths,198,Republic of Zimbabwe,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,103.42947800356089,141.7277128174955,69.18426913879321
+1,Deaths,198,Republic of Zimbabwe,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,223.93834008518098,307.9895681618226,155.20699658122027
+1,Deaths,198,Republic of Zimbabwe,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,369.2848369404337,507.9333602151178,250.49669322952172
+1,Deaths,198,Republic of Zimbabwe,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,600.1771071075574,764.9103314273492,436.3520575077007
+1,Deaths,198,Republic of Zimbabwe,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,464.7324076645218,591.6317838173138,349.58673672090606
+1,Deaths,168,Republic of Angola,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,9.116553705760996,12.450604342372754,6.256619002366285
+1,Deaths,168,Republic of Angola,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,10.853858171151316,15.154765635120942,7.316458649955444
+1,Deaths,168,Republic of Angola,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,14.63050639218619,20.372704369960605,10.088932732186015
+1,Deaths,168,Republic of Angola,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,23.505094091448164,33.67889611380035,15.92171538288216
+1,Deaths,168,Republic of Angola,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,35.57764721595333,50.0736315967208,23.901969225378785
+1,Deaths,168,Republic of Angola,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,59.146200840264584,81.51291466781868,40.48697240295202
+1,Deaths,168,Republic of Angola,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,91.76588155848904,126.46469516245173,64.50331760573847
+1,Deaths,168,Republic of Angola,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,171.46320912517862,237.00637044363668,114.20451980432499
+1,Deaths,168,Republic of Angola,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,251.48081534602028,341.3439600004381,173.91741333028844
+1,Deaths,168,Republic of Angola,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,427.79239360797607,574.258424350266,288.41666660241
+1,Deaths,168,Republic of Angola,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,735.0316147544843,982.7557887254434,512.5515347128352
+1,Deaths,168,Republic of Angola,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1449.5898386802041,1822.8497617647427,1133.2615167435083
+1,Deaths,168,Republic of Angola,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,1014.5609845458132,1265.1703001754313,814.2635283544345
+1,Deaths,168,Republic of Angola,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.3890605563423253,0.6140527192596107,0.2281826778283348
+1,Deaths,168,Republic of Angola,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.7607239917039449,1.1773132227046486,0.44922483556327386
+1,Deaths,168,Republic of Angola,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.0883684950882708,1.659544446952286,0.614567344906823
+1,Deaths,168,Republic of Angola,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,2.5711237286692654,3.827866328095652,1.5217020331380433
+1,Deaths,168,Republic of Angola,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,7.232093471243345,10.805951576051992,4.466596216905716
+1,Deaths,168,Republic of Angola,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,12.75379287365258,17.641303055974188,8.414022861506147
+1,Deaths,168,Republic of Angola,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,27.944444278321054,40.84092266463095,18.341703802138404
+1,Deaths,168,Republic of Angola,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,58.726607308640304,82.35514556259479,39.37135387972496
+1,Deaths,168,Republic of Angola,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,114.44995662290044,160.50183214288987,80.18569711876205
+1,Deaths,168,Republic of Angola,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,204.66300474584364,283.33152268023457,146.412055668639
+1,Deaths,168,Republic of Angola,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,287.8624712169439,392.1457048275812,195.41158247651285
+1,Deaths,168,Republic of Angola,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,539.1504540498831,747.5357806155846,396.66888842807083
+1,Deaths,168,Republic of Angola,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,386.1642878156253,507.69116882697824,294.0582263481313
+1,Deaths,184,Republic of Mozambique,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,12.163307787299981,18.373033865279833,8.047655742685698
+1,Deaths,184,Republic of Mozambique,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,14.269822117335718,20.902380197933613,9.105800578070259
+1,Deaths,184,Republic of Mozambique,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,16.427057710759907,24.615315772585795,10.808899075275905
+1,Deaths,184,Republic of Mozambique,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,30.20191539235363,44.39827451897716,19.47943242686446
+1,Deaths,184,Republic of Mozambique,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,45.49825960205214,64.84726906595543,29.828801816544658
+1,Deaths,184,Republic of Mozambique,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,65.91137426509512,94.8674609046904,42.79560302562944
+1,Deaths,184,Republic of Mozambique,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,114.14118644289283,157.15731409621029,77.41713958393338
+1,Deaths,184,Republic of Mozambique,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,203.95353008664958,289.85396198136317,134.39691061744304
+1,Deaths,184,Republic of Mozambique,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,264.06998405482705,368.9191388214806,183.9797958527046
+1,Deaths,184,Republic of Mozambique,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,468.96030164873224,635.5961342496018,332.04714114175556
+1,Deaths,184,Republic of Mozambique,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,734.7737867897098,990.4528609723644,521.506460858091
+1,Deaths,184,Republic of Mozambique,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1599.6431859123863,2052.00418848353,1176.2151072297283
+1,Deaths,184,Republic of Mozambique,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,1109.0617335952363,1421.409036885672,836.1122941660576
+1,Deaths,184,Republic of Mozambique,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,1.5736845729833415,2.583068344527388,0.9185461791130528
+1,Deaths,184,Republic of Mozambique,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,2.672952607522024,4.533703067972558,1.5660975087729219
+1,Deaths,184,Republic of Mozambique,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,6.244464547399309,10.166301946704092,3.5385776513990526
+1,Deaths,184,Republic of Mozambique,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,15.188010097064135,23.394268153748957,9.30551061063585
+1,Deaths,184,Republic of Mozambique,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,25.5170740188952,38.50085625417292,15.208574325398637
+1,Deaths,184,Republic of Mozambique,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,41.09332257225873,60.82843183592249,26.42235273407732
+1,Deaths,184,Republic of Mozambique,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,74.70908521341498,107.85641052468715,49.029783785712105
+1,Deaths,184,Republic of Mozambique,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,123.27968609735127,174.34018073523256,84.90444810059245
+1,Deaths,184,Republic of Mozambique,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,185.18878101015088,256.2817902195651,128.7585279842131
+1,Deaths,184,Republic of Mozambique,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,300.75487825071815,410.5916722784853,217.12196640481835
+1,Deaths,184,Republic of Mozambique,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,449.2422296419326,610.9998884594687,316.58885196165386
+1,Deaths,184,Republic of Mozambique,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,840.317540395986,1118.60671923286,608.0578948198868
+1,Deaths,184,Republic of Mozambique,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,618.4871760545943,794.5319269362196,466.66539547904785
+1,Deaths,184,Republic of Mozambique,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,4.984279406725319,7.300611849525389,3.2292466099132984
+1,Deaths,184,Republic of Mozambique,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,11.767729403343601,17.28029194418867,7.5218443388496
+1,Deaths,184,Republic of Mozambique,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,22.213649770726846,32.15142372554561,13.908183858777942
+1,Deaths,184,Republic of Mozambique,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,58.03694745657891,85.3404951528034,36.95179465273026
+1,Deaths,184,Republic of Mozambique,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,118.0231334399833,170.09658547804153,77.12789773567411
+1,Deaths,184,Republic of Mozambique,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,212.6283084667129,282.5332895574891,147.40253228709645
+1,Deaths,184,Republic of Mozambique,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,384.4759181155902,494.31817174988214,279.03974115776987
+1,Deaths,184,Republic of Mozambique,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,685.5497529402662,861.5993325291688,508.5410922674405
+1,Deaths,184,Republic of Mozambique,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,1089.9603379359094,1348.5250242843833,829.693405623648
+1,Deaths,184,Republic of Mozambique,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,1574.8038046786376,1905.9231964071007,1226.3120185963994
+1,Deaths,184,Republic of Mozambique,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,2359.5775030357036,2883.870747225644,1774.5706584346456
+1,Deaths,184,Republic of Mozambique,3,Both,21,80+ years,494,Stroke,3,Rate,2018,3013.133785532334,3724.1544989953336,2248.542141704007
+1,Deaths,184,Republic of Mozambique,3,Both,234,75+ years,494,Stroke,3,Rate,2018,2642.415859145491,3201.227075378177,2040.605519097363
+1,Deaths,184,Republic of Mozambique,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.5488194068834197,0.9020012440522244,0.29717790900526214
+1,Deaths,184,Republic of Mozambique,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.0546779787297926,1.6878320418780017,0.5665238637250449
+1,Deaths,184,Republic of Mozambique,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.7451223649844858,2.8712597920704295,0.9906002684907332
+1,Deaths,184,Republic of Mozambique,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,3.7301145060063585,5.962719582914339,2.2147776041297322
+1,Deaths,184,Republic of Mozambique,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,9.353232740696178,14.08374731293674,5.73651423848635
+1,Deaths,184,Republic of Mozambique,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,15.17927828813933,22.420792265165236,10.124564600988007
+1,Deaths,184,Republic of Mozambique,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,32.77941139602363,47.10245239944175,21.906808011537343
+1,Deaths,184,Republic of Mozambique,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,70.22891852928319,94.74633914249438,47.4398546607951
+1,Deaths,184,Republic of Mozambique,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,124.57663307028147,174.81635564297392,88.82495288759137
+1,Deaths,184,Republic of Mozambique,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,198.65266912161124,263.9903252941201,142.09891393121347
+1,Deaths,184,Republic of Mozambique,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,264.8910170306693,359.5776014834908,186.03731965325682
+1,Deaths,184,Republic of Mozambique,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,538.433099927148,736.798379767786,360.61910923705716
+1,Deaths,184,Republic of Mozambique,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,383.2713235556633,499.4166865909963,272.68542465502725
+1,Deaths,182,Republic of Malawi,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.046440662341800755,0.073296971639659,0.0269864069341864
+1,Deaths,182,Republic of Malawi,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.11797002269661531,0.1836845465181046,0.07548299495392037
+1,Deaths,182,Republic of Malawi,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.3055043042109872,0.46092796086924714,0.20064393262958313
+1,Deaths,182,Republic of Malawi,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.8675138117950649,1.2740124862527704,0.5489961486626842
+1,Deaths,182,Republic of Malawi,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,2.0103056385687696,3.0497724039312692,1.3314695317835483
+1,Deaths,182,Republic of Malawi,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,3.859522733074438,6.212096624155156,2.3800989371436363
+1,Deaths,182,Republic of Malawi,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,7.005684763900689,10.17568649357401,4.452008259147002
+1,Deaths,182,Republic of Malawi,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,10.527583713237917,14.766672550656722,7.1317906622912615
+1,Deaths,182,Republic of Malawi,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,16.08518179421515,21.97401147711715,11.588636398192909
+1,Deaths,182,Republic of Malawi,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,19.560629377220955,26.48203029455459,14.291191096035607
+1,Deaths,182,Republic of Malawi,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,17.764372833009805,24.766380719010808,12.764327725428416
+1,Deaths,182,Republic of Malawi,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,17.228147810261376,24.364195343637906,11.650025818971875
+1,Deaths,182,Republic of Malawi,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,17.531391757770873,22.877799412112225,13.148272752558002
+1,Deaths,168,Republic of Angola,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.20518511654033278,0.30290951875930106,0.12800481619719858
+1,Deaths,168,Republic of Angola,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.5135932577442707,0.7873777474698609,0.3124188188204376
+1,Deaths,168,Republic of Angola,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,1.2382964651594999,1.8614008070252004,0.7673145643188999
+1,Deaths,168,Republic of Angola,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,3.1905507016880423,4.7351358341954715,2.025808151749177
+1,Deaths,168,Republic of Angola,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.195877496318262,12.758650777606723,5.167998661167171
+1,Deaths,168,Republic of Angola,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,18.002455265714723,26.073375733302157,11.912666024529285
+1,Deaths,168,Republic of Angola,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,31.271703728588143,44.886138599294874,20.685920505230648
+1,Deaths,168,Republic of Angola,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,48.73139232787637,68.6892366905111,32.563240278766926
+1,Deaths,168,Republic of Angola,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,67.94295575244756,95.19237510200313,46.55093142529797
+1,Deaths,168,Republic of Angola,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,84.14848885202498,115.72725663430946,57.935752659472286
+1,Deaths,168,Republic of Angola,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,88.67061667789204,122.97418521470664,60.9600822115154
+1,Deaths,168,Republic of Angola,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,89.90563642401976,124.91933628783687,61.48423746327128
+1,Deaths,168,Republic of Angola,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,89.15374636523688,118.77207426863814,64.06519399458493
+1,Deaths,191,Republic of Zambia,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,2.816175855996679,3.9779358801327063,1.9750240411653268
+1,Deaths,191,Republic of Zambia,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,4.22279710357696,6.156271116446436,2.759988007088883
+1,Deaths,191,Republic of Zambia,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,7.418585485648383,10.811810622243952,4.970227974571544
+1,Deaths,191,Republic of Zambia,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,12.962606249331273,18.481982715059353,8.674936699384403
+1,Deaths,191,Republic of Zambia,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,25.4461300895648,35.60113555067925,16.559247818494697
+1,Deaths,191,Republic of Zambia,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,49.931186378684664,72.07385671946084,33.90772996199014
+1,Deaths,191,Republic of Zambia,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,80.71382893152565,116.15730705395032,49.97073299496064
+1,Deaths,191,Republic of Zambia,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,129.00719783556323,178.9074849417191,86.73446252261353
+1,Deaths,191,Republic of Zambia,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,179.8426492441014,242.21314891449754,121.96582755384743
+1,Deaths,191,Republic of Zambia,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,283.19569194107726,399.3835229269247,189.5886127872585
+1,Deaths,191,Republic of Zambia,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,407.6000761982546,542.5413875637893,287.10087697490326
+1,Deaths,191,Republic of Zambia,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,701.3107385698336,876.8061742007277,557.5355533683213
+1,Deaths,191,Republic of Zambia,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,533.849885735803,653.9478680613756,420.42593625590837
+1,Deaths,168,Republic of Angola,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,2.212653824113624,2.9777272467840645,1.563979002941047
+1,Deaths,168,Republic of Angola,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,3.4434782826818675,4.6949754957666645,2.361963422457706
+1,Deaths,168,Republic of Angola,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,5.943740164301614,8.171201014908226,3.962178546433105
+1,Deaths,168,Republic of Angola,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,10.580965943996096,14.62974125760313,7.236694845918651
+1,Deaths,168,Republic of Angola,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,21.895177458859845,30.54498419214606,14.517904675425061
+1,Deaths,168,Republic of Angola,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,50.34352326044346,70.81607780827098,32.99714060386218
+1,Deaths,168,Republic of Angola,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,84.24833180041394,119.33046908135913,57.88759143677537
+1,Deaths,168,Republic of Angola,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,145.43160625851579,201.0832215026054,101.35794082133329
+1,Deaths,168,Republic of Angola,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,192.9119639186765,256.72311866584766,138.4042054994034
+1,Deaths,168,Republic of Angola,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,300.8434155217543,409.0622621294479,213.31456257888613
+1,Deaths,168,Republic of Angola,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,394.92872850846487,530.320924139944,284.8435889907113
+1,Deaths,168,Republic of Angola,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,648.0850759908783,803.6441727477036,513.043018703339
+1,Deaths,168,Republic of Angola,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,493.9614341733144,617.330508526673,390.47297408588844
+1,Deaths,191,Republic of Zambia,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,11.16802252285865,16.084937436817427,7.629156474319703
+1,Deaths,191,Republic of Zambia,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,13.042714108880325,18.70968299266902,9.002527262473867
+1,Deaths,191,Republic of Zambia,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,17.218137107696432,23.983116984271874,11.449806064010163
+1,Deaths,191,Republic of Zambia,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,27.79042544370206,39.2762874241068,19.07208230424412
+1,Deaths,191,Republic of Zambia,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,40.45132183229945,58.498239090161505,26.452376103859258
+1,Deaths,191,Republic of Zambia,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,58.5013225483627,84.62165244162031,37.716906788188716
+1,Deaths,191,Republic of Zambia,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,87.6618477576747,126.02791026241256,59.46884961656581
+1,Deaths,191,Republic of Zambia,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,149.77138021928334,204.4206996368316,103.96601540117929
+1,Deaths,191,Republic of Zambia,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,218.0470329943034,298.8224194082757,150.03759861045822
+1,Deaths,191,Republic of Zambia,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,382.8082202506407,521.5874694198457,257.63867514149433
+1,Deaths,191,Republic of Zambia,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,691.3654725292556,947.5213058819464,488.8865839659192
+1,Deaths,191,Republic of Zambia,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1396.1741797383725,1787.4721719522265,1117.959799811059
+1,Deaths,191,Republic of Zambia,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,994.3233710511143,1278.6756533613245,785.7632936579831
+1,Deaths,191,Republic of Zambia,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,2.800450693357417,4.220482898201696,1.7437811693757372
+1,Deaths,191,Republic of Zambia,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,5.127525624211883,7.557177509056923,3.1006544824932756
+1,Deaths,191,Republic of Zambia,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,10.330051583988038,15.214221404779638,6.372370090814481
+1,Deaths,191,Republic of Zambia,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,24.378676272192614,36.54246906180079,15.855137009586572
+1,Deaths,191,Republic of Zambia,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,41.77790491742823,63.63362289156142,26.03516347587574
+1,Deaths,191,Republic of Zambia,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,69.94067611818949,102.03272629137834,46.51705525167213
+1,Deaths,191,Republic of Zambia,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,131.43827607140122,180.98864637651968,87.61771928876968
+1,Deaths,191,Republic of Zambia,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,227.56914524326453,306.10389903329377,155.00830247501364
+1,Deaths,191,Republic of Zambia,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,350.14373372779255,473.4629642765801,245.2106146697215
+1,Deaths,191,Republic of Zambia,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,599.3310736754396,804.3746591865965,445.367412113694
+1,Deaths,191,Republic of Zambia,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,863.5060922486616,1166.2411703217076,629.5924111431838
+1,Deaths,191,Republic of Zambia,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,1584.1504539540665,2015.6824246088097,1228.3507797603847
+1,Deaths,191,Republic of Zambia,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1173.2708541915345,1490.9947735457192,909.286484350893
+1,Deaths,191,Republic of Zambia,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,3.7801099091275256,5.801036310863071,2.3657785306755046
+1,Deaths,191,Republic of Zambia,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,8.88000462981479,12.36866925876282,5.663345956615908
+1,Deaths,191,Republic of Zambia,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,14.147274605713989,20.596436535699162,9.109756996532548
+1,Deaths,191,Republic of Zambia,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,32.54330849263508,48.0835610661035,20.98137834953452
+1,Deaths,191,Republic of Zambia,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,64.2206242460421,93.57205252541962,42.88534055694405
+1,Deaths,191,Republic of Zambia,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,120.03959941917087,167.14768189353347,81.65835611977268
+1,Deaths,191,Republic of Zambia,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,214.20203406691678,301.4122921085642,146.56791199914352
+1,Deaths,191,Republic of Zambia,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,400.6758156293633,531.5589860431044,284.0424428874952
+1,Deaths,191,Republic of Zambia,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,674.5462959790843,869.1266004840244,488.748716124472
+1,Deaths,191,Republic of Zambia,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,1074.8730956942459,1408.1632242899682,786.4249298781068
+1,Deaths,191,Republic of Zambia,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,1815.2355140146567,2323.467711316259,1391.4664116427214
+1,Deaths,191,Republic of Zambia,3,Both,21,80+ years,494,Stroke,3,Rate,2018,3000.2783623559876,3782.07355747601,2331.486897048757
+1,Deaths,191,Republic of Zambia,3,Both,234,75+ years,494,Stroke,3,Rate,2018,2324.6192479550023,2906.7081196281492,1836.3417636112174
+1,Deaths,191,Republic of Zambia,3,Both,10,25-29 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.23378373853388143,0.4905020314921852,0.11854401679447862
+1,Deaths,191,Republic of Zambia,3,Both,11,30-34 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,0.5886092982610902,1.1324698697725242,0.3134018706261592
+1,Deaths,191,Republic of Zambia,3,Both,12,35-39 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,1.4831999544005297,3.0662461197119013,0.8495658773794461
+1,Deaths,191,Republic of Zambia,3,Both,13,40-44 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,3.929871123799766,8.458870815104,2.2891287975388206
+1,Deaths,191,Republic of Zambia,3,Both,14,45-49 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,8.695846538111901,18.3161927237255,5.095849406856178
+1,Deaths,191,Republic of Zambia,3,Both,15,50-54 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,16.372994703124363,32.87114230001549,10.43005020718417
+1,Deaths,191,Republic of Zambia,3,Both,16,55-59 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,27.851276538442036,53.53927602815961,17.36048251643935
+1,Deaths,191,Republic of Zambia,3,Both,17,60-64 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,41.04303180781823,72.97469535307641,26.980967637968174
+1,Deaths,191,Republic of Zambia,3,Both,18,65-69 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,63.874837143493586,105.12183727344872,43.2867702516876
+1,Deaths,191,Republic of Zambia,3,Both,19,70-74 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,75.66532530673612,113.40131154509083,54.17302222827017
+1,Deaths,191,Republic of Zambia,3,Both,20,75-79 years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,65.96082343070194,95.42324224164032,46.08212042615632
+1,Deaths,191,Republic of Zambia,3,Both,21,80+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,83.97693831234652,111.74162886491276,61.33127471104401
+1,Deaths,191,Republic of Zambia,3,Both,234,75+ years,426,"Tracheal, bronchus, and lung cancer",3,Rate,2018,73.70494498913779,97.4132914035953,54.69716946623471
+1,Deaths,193,Republic of Botswana,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,11.64954939858353,17.08109339346277,6.8305508182932915
+1,Deaths,193,Republic of Botswana,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,15.361597224916034,22.10723096815592,8.733305380306492
+1,Deaths,193,Republic of Botswana,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,22.151392512188874,31.24985710458596,14.631342232339389
+1,Deaths,193,Republic of Botswana,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,31.159283122931907,43.51016487921695,20.443897794399305
+1,Deaths,193,Republic of Botswana,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,42.81520718514871,58.75920073460739,28.570125639807895
+1,Deaths,193,Republic of Botswana,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,58.80656135567057,81.91888661147588,38.628455851546825
+1,Deaths,193,Republic of Botswana,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,81.4994270385755,114.62429165806994,54.232842448196166
+1,Deaths,193,Republic of Botswana,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,145.8272824413707,206.71926092133344,96.84771545070197
+1,Deaths,193,Republic of Botswana,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,208.4117833996371,289.9791854471153,142.96192325857425
+1,Deaths,193,Republic of Botswana,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,336.1618731292604,468.8482332601738,233.91054394722605
+1,Deaths,193,Republic of Botswana,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,553.9604328557289,789.1772377941471,375.3334627562991
+1,Deaths,193,Republic of Botswana,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1291.1633926602365,1719.5735691191132,940.3877383355061
+1,Deaths,193,Republic of Botswana,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,902.3966994337798,1199.540373825789,680.9248974517163
+1,Deaths,193,Republic of Botswana,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,1.156684714096366,1.9752311824313717,0.5029065370317483
+1,Deaths,193,Republic of Botswana,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,2.8140313680587683,4.605474097627144,1.268980866261906
+1,Deaths,193,Republic of Botswana,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,7.021118376677547,10.811494979808948,4.010296883270901
+1,Deaths,193,Republic of Botswana,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,16.606846930405077,24.42031905078009,10.025303521658374
+1,Deaths,193,Republic of Botswana,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,32.599596573324426,45.762965252319034,21.176421492198912
+1,Deaths,193,Republic of Botswana,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,60.574528408312844,83.87973824978376,40.999209522748664
+1,Deaths,193,Republic of Botswana,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,103.85876151680694,139.23570426186265,70.78909473866932
+1,Deaths,193,Republic of Botswana,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,167.10797459284154,220.65708322167708,122.39999674582467
+1,Deaths,193,Republic of Botswana,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,281.5503342300246,360.90324474770847,210.83470794921845
+1,Deaths,193,Republic of Botswana,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,469.56130250511336,606.2973764092957,358.7070734547315
+1,Deaths,193,Republic of Botswana,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,752.0762223657958,940.3551548011462,577.3695254390234
+1,Deaths,193,Republic of Botswana,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,1524.7556165226813,1920.8928100110118,1159.4804134679105
+1,Deaths,193,Republic of Botswana,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1117.2802951128865,1372.1630044748772,879.443509094557
+1,Deaths,193,Republic of Botswana,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,1.882547679593772,3.049670682130824,0.8228711633415637
+1,Deaths,193,Republic of Botswana,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,3.237940661294498,5.219042710347551,1.5203835389843192
+1,Deaths,193,Republic of Botswana,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,6.364979181701829,9.74335204791239,3.5111000090856965
+1,Deaths,193,Republic of Botswana,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,13.633137953277371,19.820183089619633,8.818568326985783
+1,Deaths,193,Republic of Botswana,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,27.666063615894956,40.73917312193428,18.341975749201655
+1,Deaths,193,Republic of Botswana,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,56.42743101384255,77.24934620683824,38.23463294926098
+1,Deaths,193,Republic of Botswana,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,98.3311812739546,133.2293844991353,69.08043079041637
+1,Deaths,193,Republic of Botswana,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,222.05064384321045,285.9996580001408,168.63342332484805
+1,Deaths,193,Republic of Botswana,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,396.9277754413585,504.0912442616099,302.4045953332841
+1,Deaths,193,Republic of Botswana,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,691.6153978677353,869.0637180422468,552.5114182619856
+1,Deaths,193,Republic of Botswana,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,1152.6644131843727,1449.2379582194617,904.9066696293588
+1,Deaths,193,Republic of Botswana,3,Both,21,80+ years,494,Stroke,3,Rate,2018,2187.5696637689007,2755.543996169094,1737.9783122464648
+1,Deaths,193,Republic of Botswana,3,Both,234,75+ years,494,Stroke,3,Rate,2018,1641.808572170549,2057.202106798813,1343.6596880131697
+1,Deaths,193,Republic of Botswana,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.3660747486186276,0.6236295601285958,0.20006260055752745
+1,Deaths,193,Republic of Botswana,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.6080226722716146,1.005042171565116,0.3635572169374499
+1,Deaths,193,Republic of Botswana,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.2534597854226748,1.9158819423289837,0.7533903679627412
+1,Deaths,193,Republic of Botswana,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,2.9883980012473854,4.311824515645523,1.8952652018653924
+1,Deaths,193,Republic of Botswana,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,6.95223476941026,9.860631693385578,4.613232631359536
+1,Deaths,193,Republic of Botswana,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,15.550281125947318,21.882558358446193,10.94192304122134
+1,Deaths,193,Republic of Botswana,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,33.78273794864912,48.17914805321814,23.58921418426289
+1,Deaths,193,Republic of Botswana,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,60.45487995842911,82.62686459931747,44.48490991629278
+1,Deaths,193,Republic of Botswana,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,128.46834889801377,175.3981179282737,93.2198566712497
+1,Deaths,193,Republic of Botswana,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,288.92026359767203,377.95963483111586,216.21241345036765
+1,Deaths,193,Republic of Botswana,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,424.2797994327756,557.8922844860692,315.32563234047024
+1,Deaths,193,Republic of Botswana,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,689.1924533023567,1010.032653339633,500.58982610943144
+1,Deaths,193,Republic of Botswana,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,549.4897905973226,750.1354620196703,431.7125242726945
+1,Deaths,193,Republic of Botswana,3,Both,10,25-29 years,587,Diabetes mellitus,3,Rate,2018,0.8346743751816262,1.176274501203977,0.5456824327015503
+1,Deaths,193,Republic of Botswana,3,Both,11,30-34 years,587,Diabetes mellitus,3,Rate,2018,1.2207382639648,1.770547148387284,0.7999674680192957
+1,Deaths,193,Republic of Botswana,3,Both,12,35-39 years,587,Diabetes mellitus,3,Rate,2018,2.5791344394356335,3.603446507659254,1.7416620125993132
+1,Deaths,193,Republic of Botswana,3,Both,13,40-44 years,587,Diabetes mellitus,3,Rate,2018,6.763819111715698,9.219699643821274,4.6187843142826575
+1,Deaths,193,Republic of Botswana,3,Both,14,45-49 years,587,Diabetes mellitus,3,Rate,2018,16.55969490370687,22.708243175225903,11.739681476382254
+1,Deaths,193,Republic of Botswana,3,Both,15,50-54 years,587,Diabetes mellitus,3,Rate,2018,39.992328668365076,55.13648220991387,28.99147967300377
+1,Deaths,193,Republic of Botswana,3,Both,16,55-59 years,587,Diabetes mellitus,3,Rate,2018,78.02268797177766,104.08499092376074,54.685466585706855
+1,Deaths,193,Republic of Botswana,3,Both,17,60-64 years,587,Diabetes mellitus,3,Rate,2018,182.0488634775891,242.74959487026803,132.46001053323985
+1,Deaths,193,Republic of Botswana,3,Both,18,65-69 years,587,Diabetes mellitus,3,Rate,2018,292.85202743727734,385.7430941429972,213.49836674001483
+1,Deaths,193,Republic of Botswana,3,Both,19,70-74 years,587,Diabetes mellitus,3,Rate,2018,447.86978844338955,578.4529293440065,335.3291970321702
+1,Deaths,193,Republic of Botswana,3,Both,20,75-79 years,587,Diabetes mellitus,3,Rate,2018,649.3813605375188,842.4479722655009,493.538240163358
+1,Deaths,193,Republic of Botswana,3,Both,21,80+ years,587,Diabetes mellitus,3,Rate,2018,883.8525307615292,1116.9551113120992,700.6469775979728
+1,Deaths,193,Republic of Botswana,3,Both,234,75+ years,587,Diabetes mellitus,3,Rate,2018,760.2032964596239,927.0451358402885,622.3653652630067
+1,Deaths,194,Kingdom of Lesotho,3,Both,10,25-29 years,322,Lower respiratory infections,3,Rate,2018,22.16971351740054,30.277217794361185,15.320683767656412
+1,Deaths,194,Kingdom of Lesotho,3,Both,11,30-34 years,322,Lower respiratory infections,3,Rate,2018,31.688245299063063,43.07177051155077,21.33245043217683
+1,Deaths,194,Kingdom of Lesotho,3,Both,12,35-39 years,322,Lower respiratory infections,3,Rate,2018,50.47240763479139,71.82442207299293,32.92504393067806
+1,Deaths,194,Kingdom of Lesotho,3,Both,13,40-44 years,322,Lower respiratory infections,3,Rate,2018,78.79770126601255,118.57840122849784,51.453738958843935
+1,Deaths,194,Kingdom of Lesotho,3,Both,14,45-49 years,322,Lower respiratory infections,3,Rate,2018,118.02120851394321,174.05349154658026,78.24788778095208
+1,Deaths,194,Kingdom of Lesotho,3,Both,15,50-54 years,322,Lower respiratory infections,3,Rate,2018,152.96851424546028,230.35248345516226,100.03152954611318
+1,Deaths,194,Kingdom of Lesotho,3,Both,16,55-59 years,322,Lower respiratory infections,3,Rate,2018,198.29401433754958,296.36412892247756,135.03493892595898
+1,Deaths,194,Kingdom of Lesotho,3,Both,17,60-64 years,322,Lower respiratory infections,3,Rate,2018,321.5787858977161,457.2529844155889,222.4062387055836
+1,Deaths,194,Kingdom of Lesotho,3,Both,18,65-69 years,322,Lower respiratory infections,3,Rate,2018,432.6099163487698,578.8521077356136,302.4336747461229
+1,Deaths,194,Kingdom of Lesotho,3,Both,19,70-74 years,322,Lower respiratory infections,3,Rate,2018,579.931554282466,779.7003722471732,425.2831839756226
+1,Deaths,194,Kingdom of Lesotho,3,Both,20,75-79 years,322,Lower respiratory infections,3,Rate,2018,855.5292817462439,1173.9930713600372,596.0774565150006
+1,Deaths,194,Kingdom of Lesotho,3,Both,21,80+ years,322,Lower respiratory infections,3,Rate,2018,1785.1028316588652,2257.250210993453,1395.9738182128037
+1,Deaths,194,Kingdom of Lesotho,3,Both,234,75+ years,322,Lower respiratory infections,3,Rate,2018,1234.3445066928227,1546.245080070658,970.1048864252297
+1,Deaths,194,Kingdom of Lesotho,3,Both,10,25-29 years,493,Ischemic heart disease,3,Rate,2018,1.3535456486955069,2.136281343282638,0.7991273066718808
+1,Deaths,194,Kingdom of Lesotho,3,Both,11,30-34 years,493,Ischemic heart disease,3,Rate,2018,3.3796897474733814,5.300950178760702,1.9554189924934455
+1,Deaths,194,Kingdom of Lesotho,3,Both,12,35-39 years,493,Ischemic heart disease,3,Rate,2018,9.26136200023153,15.5917282388773,5.3311183763446195
+1,Deaths,194,Kingdom of Lesotho,3,Both,13,40-44 years,493,Ischemic heart disease,3,Rate,2018,24.637459206839782,47.14005773930135,13.73090046728188
+1,Deaths,194,Kingdom of Lesotho,3,Both,14,45-49 years,493,Ischemic heart disease,3,Rate,2018,54.492842439594185,105.95155454620716,28.337413283562327
+1,Deaths,194,Kingdom of Lesotho,3,Both,15,50-54 years,493,Ischemic heart disease,3,Rate,2018,94.63642736301937,163.73951723958496,52.901286765906114
+1,Deaths,194,Kingdom of Lesotho,3,Both,16,55-59 years,493,Ischemic heart disease,3,Rate,2018,158.37319532078334,271.80295965181574,88.88362576159255
+1,Deaths,194,Kingdom of Lesotho,3,Both,17,60-64 years,493,Ischemic heart disease,3,Rate,2018,224.8760684040998,369.1787167843587,132.37233706734347
+1,Deaths,194,Kingdom of Lesotho,3,Both,18,65-69 years,493,Ischemic heart disease,3,Rate,2018,351.7609863096445,587.9795964680108,222.37938826182622
+1,Deaths,194,Kingdom of Lesotho,3,Both,19,70-74 years,493,Ischemic heart disease,3,Rate,2018,523.7431610151729,802.7531916982288,333.91744699986265
+1,Deaths,194,Kingdom of Lesotho,3,Both,20,75-79 years,493,Ischemic heart disease,3,Rate,2018,843.0152747873211,1330.3543382743574,550.4115727683879
+1,Deaths,194,Kingdom of Lesotho,3,Both,21,80+ years,493,Ischemic heart disease,3,Rate,2018,1702.2129745028044,2305.214945334442,1244.3161332261495
+1,Deaths,194,Kingdom of Lesotho,3,Both,234,75+ years,493,Ischemic heart disease,3,Rate,2018,1193.1512806169835,1720.8557792815816,840.8478789036725
+1,Deaths,194,Kingdom of Lesotho,3,Both,10,25-29 years,494,Stroke,3,Rate,2018,4.158825355314751,6.124361295451566,2.599872266806254
+1,Deaths,194,Kingdom of Lesotho,3,Both,11,30-34 years,494,Stroke,3,Rate,2018,7.725550585503289,11.48406293982903,4.908575522823662
+1,Deaths,194,Kingdom of Lesotho,3,Both,12,35-39 years,494,Stroke,3,Rate,2018,17.613556243754974,27.46135030309974,11.338437713216866
+1,Deaths,194,Kingdom of Lesotho,3,Both,13,40-44 years,494,Stroke,3,Rate,2018,41.153413749712286,66.28073526333945,24.20699978682677
+1,Deaths,194,Kingdom of Lesotho,3,Both,14,45-49 years,494,Stroke,3,Rate,2018,92.4714345315551,150.95452738324934,55.7887787643652
+1,Deaths,194,Kingdom of Lesotho,3,Both,15,50-54 years,494,Stroke,3,Rate,2018,174.33993740997977,279.2577212265595,107.763787642671
+1,Deaths,194,Kingdom of Lesotho,3,Both,16,55-59 years,494,Stroke,3,Rate,2018,291.3074207350922,452.9264753573811,191.80644469037773
+1,Deaths,194,Kingdom of Lesotho,3,Both,17,60-64 years,494,Stroke,3,Rate,2018,559.1668436414614,819.4589069805842,384.98352938198667
+1,Deaths,194,Kingdom of Lesotho,3,Both,18,65-69 years,494,Stroke,3,Rate,2018,907.4997810605803,1259.818184884727,643.9088904009459
+1,Deaths,194,Kingdom of Lesotho,3,Both,19,70-74 years,494,Stroke,3,Rate,2018,1391.441447287015,1857.7658250667434,1037.834100496573
+1,Deaths,194,Kingdom of Lesotho,3,Both,20,75-79 years,494,Stroke,3,Rate,2018,2293.136270729732,3021.207961436773,1692.034008784501
+1,Deaths,194,Kingdom of Lesotho,3,Both,21,80+ years,494,Stroke,3,Rate,2018,3953.2280148215527,4831.69449130053,3165.624716408506
+1,Deaths,194,Kingdom of Lesotho,3,Both,234,75+ years,494,Stroke,3,Rate,2018,2969.6486645357045,3694.3763214145524,2365.277735617203
+1,Deaths,194,Kingdom of Lesotho,3,Both,10,25-29 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,0.9523098898645905,1.5628310365420708,0.5528559743743345
+1,Deaths,194,Kingdom of Lesotho,3,Both,11,30-34 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1.6440796425187059,2.7075669007031626,0.8479162695135932
+1,Deaths,194,Kingdom of Lesotho,3,Both,12,35-39 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,3.5189266374873998,5.518686546707856,1.8753353556371013
+1,Deaths,194,Kingdom of Lesotho,3,Both,13,40-44 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,9.524771285333038,14.51842394634331,5.069404933171131
+1,Deaths,194,Kingdom of Lesotho,3,Both,14,45-49 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,23.51591385119056,37.094186731685255,12.930847418098644
+1,Deaths,194,Kingdom of Lesotho,3,Both,15,50-54 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,48.1639942936771,72.69004031254589,26.569393830838557
+1,Deaths,194,Kingdom of Lesotho,3,Both,16,55-59 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,98.48978255977418,148.08062434798416,58.110234327585914
+1,Deaths,194,Kingdom of Lesotho,3,Both,17,60-64 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,156.77341000114154,219.96921211499105,101.08753770615839
+1,Deaths,194,Kingdom of Lesotho,3,Both,18,65-69 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,314.1974558388006,442.3732924379296,208.77248726313334
+1,Deaths,194,Kingdom of Lesotho,3,Both,19,70-74 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,579.0116226138083,797.6525570508014,375.76198400314615
+1,Deaths,194,Kingdom of Lesotho,3,Both,20,75-79 years,509,Chronic obstructive pulmonary disease,3,Rate,2018,761.5843210166474,1096.4362689389386,481.6989190373165
+1,Deaths,194,Kingdom of Lesotho,3,Both,21,80+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,1164.1394923825471,1603.9187017948955,768.3809252960662
+1,Deaths,194,Kingdom of Lesotho,3,Both,234,75+ years,509,Chronic obstructive pulmonary disease,3,Rate,2018,925.6316175524795,1259.3710492017613,601.9598576983891
