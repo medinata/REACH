@@ -1,0 +1,61 @@
+country,cause_name,adj_factor,PM_mort
+Angola,Chronic obstructive pulmonary disease,0.5746373840000001,103.37586049932509
+Angola,Diabetes mellitus,0.5746373840000001,274.84118520816145
+Angola,Lower respiratory infections,0.5746373840000001,453.41470964613836
+Angola,"Tracheal, bronchus, and lung cancer",0.5746373840000001,61.20382056801328
+Botswana,Chronic obstructive pulmonary disease,0.805646529,25.433235802842955
+Botswana,Diabetes mellitus,0.805646529,67.74893830021111
+Botswana,Lower respiratory infections,0.805646529,48.209655759551055
+Botswana,"Tracheal, bronchus, and lung cancer",0.805646529,13.865130258115808
+Eswatini,Chronic obstructive pulmonary disease,0.663761291,17.736842673672136
+Eswatini,Diabetes mellitus,0.663761291,57.59559790789138
+Eswatini,Lower respiratory infections,0.663761291,35.42829332989
+Eswatini,"Tracheal, bronchus, and lung cancer",0.663761291,8.566039028279421
+Lesotho,Chronic obstructive pulmonary disease,0.557042913,49.37737812041823
+Lesotho,Diabetes mellitus,0.557042913,97.37970156910039
+Lesotho,Lower respiratory infections,0.557042913,86.06160066213789
+Lesotho,"Tracheal, bronchus, and lung cancer",0.557042913,17.15555462385746
+Malawi,Chronic obstructive pulmonary disease,0.2784701,33.30624926089432
+Malawi,Diabetes mellitus,0.2784701,89.44606075325505
+Malawi,Lower respiratory infections,0.2784701,120.49729937272782
+Malawi,"Tracheal, bronchus, and lung cancer",0.2784701,3.7888648576265593
+Mozambique,Chronic obstructive pulmonary disease,0.21347704550000002,50.93138779614704
+Mozambique,Diabetes mellitus,0.21347704550000002,141.22088214094993
+Mozambique,Lower respiratory infections,0.21347704550000002,208.59967777359867
+Mozambique,"Tracheal, bronchus, and lung cancer",0.21347704550000002,15.571726311028945
+Namibia,Chronic obstructive pulmonary disease,0.757584391,8.04799409868579
+Namibia,Diabetes mellitus,0.757584391,19.46321508291079
+Namibia,Lower respiratory infections,0.757584391,15.103648148067903
+Namibia,"Tracheal, bronchus, and lung cancer",0.757584391,1.3090882585119719
+South Africa,Chronic obstructive pulmonary disease,0.8956019715,1301.3270676022778
+South Africa,Diabetes mellitus,0.8956019715,3881.3645768691827
+South Africa,Lower respiratory infections,0.8956019715,2644.85015752923
+South Africa,"Tracheal, bronchus, and lung cancer",0.8956019715,939.4126905208268
+Zambia,Chronic obstructive pulmonary disease,0.5005237915,67.32844660615264
+Zambia,Diabetes mellitus,0.5005237915,163.63294143350424
+Zambia,Lower respiratory infections,0.5005237915,247.49306104510637
+Zambia,"Tracheal, bronchus, and lung cancer",0.5005237915,31.940830792919705
+Zimbabwe,Chronic obstructive pulmonary disease,0.482071896,74.10325527378913
+Zimbabwe,Diabetes mellitus,0.482071896,249.35111650294292
+Zimbabwe,Lower respiratory infections,0.482071896,382.5597383719724
+Zimbabwe,"Tracheal, bronchus, and lung cancer",0.482071896,39.55210855518146
+Angola,Stroke,0.5746373840000001,656.8114109610668
+Botswana,Stroke,0.805646529,92.53824375683999
+Eswatini,Stroke,0.663761291,66.63057309518862
+Lesotho,Stroke,0.557042913,184.1342290012537
+Malawi,Stroke,0.2784701,234.33806768073035
+Mozambique,Stroke,0.21347704550000002,592.765614318174
+Namibia,Stroke,0.757584391,30.853928051442526
+South Africa,Stroke,0.8956019715,4730.392267241801
+Zambia,Stroke,0.5005237915,509.7694076665973
+Zimbabwe,Stroke,0.482071896,500.0278501527504
+Angola,Ischemic heart disease,0.5746373840000001,563.8152217299842
+Botswana,Ischemic heart disease,0.805646529,67.54131331605019
+Eswatini,Ischemic heart disease,0.663761291,44.261142396385324
+Lesotho,Ischemic heart disease,0.557042913,73.58101478925117
+Malawi,Ischemic heart disease,0.2784701,127.32624118539997
+Mozambique,Ischemic heart disease,0.21347704550000002,112.39993315959093
+Namibia,Ischemic heart disease,0.757584391,21.863585370421323
+South Africa,Ischemic heart disease,0.8956019715,3297.828703176774
+Zambia,Ischemic heart disease,0.5005237915,268.74627120281184
+Zimbabwe,Ischemic heart disease,0.482071896,338.3544463862225
