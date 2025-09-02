@@ -13,30 +13,7 @@ library(stringr)
 mort_dir <- paste0(getwd(), '/GBD_mortality/')
 basemort_dir <- paste0(mort_dir, 'results/')
 # inputs ------------------------------------------------------------------
-counterfactual <- 2.4 
-
-# Coexposure factors ------------------------------------------------------
-#' GBD concentration-response functions include cohort studies on ambient
-#' and household PM2.5. Because REACH estimates ambient PM2.5 concentration,
-#' adjust mortality estimates with co-exposure factors to isolate the ambient PM2.5
-#' mortality contribution. See reference above for more details
-coexposure <- read_csv(paste0(mort_dir, '/inputs/GBD2019_BurdenData/CoExposure_Factors.csv')) %>% 
-  rename(country = Location)
-
-#' Adjust for model baseline year and filter out countries in domain
-domain_countries <- c("South Africa", "Eswatini", "Angola", "Botswana", "Lesotho",
-                      "Malawi", "Mozambique", "Namibia", "Zambia","Zimbabwe")
-
-#' Assume 2018 coexposure is midpoint of 2017 and 2019 (values are similar and don't introduce significant error)
-coexposure_2018 <- coexposure %>% 
-  mutate(adj_factor = (`2017` + `2019`) / 2) %>% 
-  filter(country %in% domain_countries) %>% 
-  select(country, adj_factor)
-
-
-# -------------------------------------------------------------------------
-#' baseline deaths from all causes 
-base_deaths <- read_csv(paste0(mort_dir, '/inputs/mortality_cause_specific.csv'))
+source(paste0(mort_dir,'/scripts/domain_inputs.R'))
 
 
 #' New PM2.5 concentration (from one 1 tonne addition to one source location)
@@ -149,7 +126,7 @@ stroke_deaths <- get_others('Stroke', REACH_strokeRR)
 IHD_deaths <- get_others( 'Ischemic heart disease', REACH_IHDRR)
 
 all_deaths <- rbind(other_deaths, stroke_deaths, IHD_deaths)  %>% 
-  left_join(coexposure_2018) %>% 
+  left_join(coexposure_adj) %>% 
   mutate(PM_mort = Tot_mort*adj_factor) %>% #ambient PM2.5 mortalities
   select(-Tot_mort) %>% 
   rename(new_mort = PM_mort)
