@@ -26,11 +26,7 @@ export_dir <- paste0(mort_dir, 'results/')
 
 
 # inputs ------------------------------------------------------------------
-counterfactual <- 2.4 
-
-
-#' baseline deaths from IHD, COPD, lung cancer, LRI and stroke
-base_deaths <- read_csv(paste0(mort_dir, '/inputs/mortality_cause_specific.csv'))
+source(paste0(mort_dir,'/scripts/domain_inputs.R'))
 
 
 #' Baseline PM2.5 concentration 
@@ -41,23 +37,7 @@ REACH_PM25 <- read_csv(paste0(conc_dir, 'calibrated_conc.csv')) %>%
 source(paste0(script_dir, 'GBD_relative_risk.R'))
 
 
-# Coexposure factors ------------------------------------------------------
-#' GBD concentration-response functions include cohort studies on ambient
-#' and household PM2.5. Because REACH estimates ambient PM2.5 concentration,
-#' adjust mortality estimates with co-exposure factors to isolate the ambient PM2.5
-#' mortality contribution. See reference above for more details
-coexposure <- read_csv(paste0(mort_dir, '/inputs/GBD2019_BurdenData/CoExposure_Factors.csv')) %>% 
-  rename(country = Location)
 
-#' Adjust for model baseline year and filter out countries in domain
-domain_countries <- c("South Africa", "Eswatini", "Angola", "Botswana", "Lesotho",
-                      "Malawi", "Mozambique", "Namibia", "Zambia","Zimbabwe")
-
-#' Assume 2018 coexposure is midpoint of 2017 and 2019 (values are similar and don't introduce significant error)
-coexposure_2018 <- coexposure %>% 
-  mutate(adj_factor = (`2017` + `2019`) / 2) %>% 
-  filter(country %in% domain_countries) %>% 
-  select(country, adj_factor)
 # PM2.5 deaths (IHD, DM, COPD, LC) ----------------------------------------
 codes <- data.frame(cause = c("COPD", "DM", "LRI", "LC"),
                     cause_name = c("Chronic obstructive pulmonary disease",
@@ -163,7 +143,7 @@ stroke_deaths <- get_others('Stroke', REACH_strokeRR)
 IHD_deaths <- get_others( 'Ischemic heart disease', REACH_IHDRR)
 
 all_deaths <- rbind(other_deaths, stroke_deaths, IHD_deaths) %>% 
-  left_join(coexposure_2018) %>% 
+  left_join(coexposure_adj) %>% 
   mutate(PM_mort = Tot_mort*adj_factor) %>% #ambient PM2.5 mortalities
   select(-Tot_mort)
 
