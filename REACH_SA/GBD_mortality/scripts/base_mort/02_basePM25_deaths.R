@@ -41,7 +41,7 @@ source(paste0(script_dir, 'GBD_relative_risk.R'))
 # PM2.5 deaths (IHD, DM, COPD, LC) ----------------------------------------
 codes <- data.frame(cause = c("COPD", "DM", "LRI", "LC"),
                     cause_name = c("Chronic obstructive pulmonary disease",
-                                   "Diabetes mellitus",
+                                   "Diabetes mellitus type 2",
                                    "Lower respiratory infections",
                                    "Tracheal, bronchus, and lung cancer"
                     )
