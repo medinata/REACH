@@ -166,17 +166,19 @@ for (j in 1:nrow(poll_info)) {
     
     
      poll_emis[emis_id, 'mort_pertonne'] <- mort_diff
+     
+     print(paste0('social_cost: ', mort_diff))
     
-    if (emis_id %% 500 == 0) {
-      print(emis_id/nrow(poll_emis)*100)
+    if (emis_id %% 10 == 0) {
+      paste0(round(emis_id/nrow(poll_emis)*100, 2) , '%')
     }
   
     
     
   }
   
-  write_csv(poll_emis, paste0(export_dir,poll_var, '_damage.csv'))
+  
   
 }
 
-
+write_csv(poll_emis, paste0(export_dir,poll_var, '_damage.csv'))
