@@ -103,7 +103,8 @@ for (k in 1:length(all_sectors)) {
     mutate(census_id = Divisions$census_id, # location geography id
            OC_primary = OC_primary/OA_to_OC # convert primary organic aerosol into primary organic carbon since primary PM2.5 matrix was used
     ) %>% # total organics 
-    relocate(census_id, .before = SO4)
+    relocate(census_id, .before = SO4) %>% 
+    as.data.frame()
   
   
   sector_PM <- local({
@@ -117,10 +118,12 @@ for (k in 1:length(all_sectors)) {
     
   })[["value"]]
   
-  write_csv(sector_PM, paste0(export_dir1, all_sectors[k], '.csv'))
-  write_csv(sector_deaths, paste0(export_dir2, all_sectors[k], '.csv'))
+  write.csv(sector_PM, paste0(export_dir1, all_sectors[k], '.csv'))
+  write.csv(sector_deaths, paste0(export_dir2, all_sectors[k], '.csv'))
   
   print(k/length(all_sectors) * 100)
+  
+  rm(sector_PM, sector_deaths)
   
   
 }

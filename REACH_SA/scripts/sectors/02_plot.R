@@ -11,7 +11,7 @@ conc_dir <- paste0(curr_dir, '/results/sector_conc/')
 mort_dir <- paste0(curr_dir, '/results/sector_deaths/')
 input_dir <- paste0(curr_dir, '/inputs/')
 info_dir <- paste0(curr_dir, '/inputs/emissions/sector_emissions/')
-plot_dir <- paste0(curr_dir, '/plots/sectors/')
+plot_dir <- paste0(curr_dir, '/plots/paper/')
 
 # -------------------------------------------------------------------------
 domain_pop <- read_csv(paste0(input_dir, 'population/southern_africa_pop.csv')) %>% 
@@ -22,7 +22,7 @@ sector_info <- read_excel(paste0(info_dir, 'edgar_sectors.xlsx')) %>%
 
 # Sector deaths -----------------------------------------------------------
 # Plot PM2.5-attributed mortalities
-all_deaths <- list.files(mort_dir, full.names = T) %>% 
+all_deaths <- list.files(mort_dir, full.names = T, pattern = '.csv') %>% 
   lapply(read_csv) %>% 
   do.call("rbind", .) %>% 
   group_by(country, sector) %>% 
@@ -68,15 +68,18 @@ p1 <- ggplot(plot_mort, aes(x = country,  y = sector_deaths, fill = sector_name)
   scale_fill_brewer(palette = "Paired") +
   facet_wrap(~Facet, scales = "free") +
   theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1, color = "black", size = 14),
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, color = "black", size = 18),
         strip.text = element_blank(),
         axis.title.x = element_blank(),
-        axis.title.y = element_text(color = "black", size = 14),
-        axis.text.y = element_text(color = "black", size = 9)) + 
+        axis.title.y = element_text(color = "black", size = 22),
+        axis.text.y = element_text(color = "black", size = 20),
+        legend.title = element_text(size = 20),
+        legend.text = element_text(size = 17),
+        ) + 
   labs(y = 'Annual Deaths',
        fill = 'sector')
 
-ggsave(paste0(plot_dir,'sector_PM25deaths.png'), width = 15, height = 8, p1, dpi = 500)
+ggsave(paste0(plot_dir,'sector_PM25deaths.png'), width = 17, height = 8, p1, dpi = 600)
 
 
 p2 <- ggplot(per_sector, aes(x = country, y = per, fill = sector_name)) +
@@ -100,7 +103,7 @@ ggsave(paste0(plot_dir,'percent_PM25deaths.png'), width = 15, height = 8, p2, dp
 
 # Sector PM2.5 ------------------------------------------------------------
 # Plot sector pop-weighted concentration by country
-all_conc <- list.files(conc_dir, full.names = T) %>% 
+all_conc <- list.files(conc_dir, full.names = T, pattern = '.csv') %>% 
   lapply(read_csv) %>% 
   do.call("rbind", .) %>% 
   left_join(domain_pop)

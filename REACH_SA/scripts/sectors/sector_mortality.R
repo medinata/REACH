@@ -1,4 +1,5 @@
 # Description -------------------------------------------------------------
+# 3/31/26: Changed Diabetes mellitus to Diabetes mellitus type 2
 #' Estimate baseline PM2.5 attributed deaths (summed from these causes: IHD, COPD, lung cancer, LRI and stroke)
 #' in each country
 
@@ -60,7 +61,7 @@ coexposure_2018 <- coexposure %>%
 # PM2.5 deaths (IHD, DM, COPD, LC) ----------------------------------------
 codes <- data.frame(cause = c("COPD", "DM", "LRI", "LC"),
                     cause_name = c("Chronic obstructive pulmonary disease",
-                                   "Diabetes mellitus",
+                                   "Diabetes mellitus type 2",
                                    "Lower respiratory infections",
                                    "Tracheal, bronchus, and lung cancer"
                     )
