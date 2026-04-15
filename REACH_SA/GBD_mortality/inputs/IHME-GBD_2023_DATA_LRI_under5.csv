@@ -1,0 +1,11 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,1,Deaths,168,Angola,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,157.1715953910837,217.78586094959562,105.18595887051276
+1,All Population,1,Deaths,196,South Africa,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,121.01973610449002,140.5251882805468,103.39974687859866
+1,All Population,1,Deaths,182,Malawi,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,91.49916730925196,117.84416326470811,65.05466221042407
+1,All Population,1,Deaths,193,Botswana,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,161.64956639834847,211.2521162368867,114.0097850780884
+1,All Population,1,Deaths,184,Mozambique,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,153.421538307915,195.33441833848136,114.53282684109037
+1,All Population,1,Deaths,197,Eswatini,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,286.74630663710826,372.6476290820262,209.06053435774274
+1,All Population,1,Deaths,194,Lesotho,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,264.3588322097218,331.14448972486673,207.75222051189675
+1,All Population,1,Deaths,195,Namibia,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,149.7137480632896,198.31551108971104,108.09784365623497
+1,All Population,1,Deaths,191,Zambia,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,159.28402534531574,213.40362810114937,112.5798720451402
+1,All Population,1,Deaths,198,Zimbabwe,3,Both,1,<5 years,322,Lower respiratory infections,3,Rate,2018,153.579311615777,215.52065037751962,106.45793813636784
