@@ -151,9 +151,9 @@ for (j in 1:nrow(poll_info)) {
                        NH4 = NH4_mol * 18,
                        SOA = OC_secondary * OA_to_OC,
                        H2SO4 = SO4 * 98 / 96,
-                       PM_25 = H2SO4 + NO3 + NH4 + SOA + PM # sulfuric acid + nitrate + ammonium + secondary organic aerosol + primary PM2.5
+                       new_PM25 = H2SO4 + NO3 + NH4 + SOA + PM # sulfuric acid + nitrate + ammonium + secondary organic aerosol + primary PM2.5
     ) %>%
-      select(census_id, new_PM25 = PM_25)  %>% 
+      select(census_id, new_PM25)  %>% 
       left_join(domain_info)
     
     #' Get PM2.5 attributed mortalities
