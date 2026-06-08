@@ -23,10 +23,10 @@ library(data.table)
 
 # Directories -------------------------------------------------------------
 proj_dir <- getwd()
-input_dir <- paste0(proj_dir,'/files/inputs/')
+input_dir <- paste0(proj_dir,'/inputs/')
 result_file <- paste0(proj_dir,'/results/matrices/SR_' )
-emis_dir <- paste0(proj_dir,'/files/emissions/')
-export_dir <- paste0(proj_dir, '/files/concentrations/')
+emis_dir <- paste0(proj_dir,'/inputs/emissions/')
+export_dir <- paste0(proj_dir, '/results/concentrations/')
 
 # Inputs ------------------------------------------------------------------
 Divisions <- read_csv(paste0(input_dir, "county_2017.csv")) %>%
@@ -104,7 +104,7 @@ final_conc <- tot_conc %>%
   relocate(GEOID17, .before = SO4)
 
 
-write_csv(final_conc, paste0(export_dir, 'uncalibrated_conc.csv'))
+write.csv(final_conc, paste0(export_dir, 'uncalibrated_conc.csv'))
 
 
 

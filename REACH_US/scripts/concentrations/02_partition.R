@@ -38,7 +38,7 @@ library(magrittr)
 proj_dir <- getwd()
 input_dir <- paste0(proj_dir,'/inputs/')
 plot_dir <- paste0(proj_dir,'/plots/evaluation/')
-script_dir <- paste0(proj_dir, '/scripts/')
+script_dir <- paste0(proj_dir, '/scripts/concentrations/')
 conc_dir <- paste0(proj_dir, '/results/concentrations/')
 
 # Inputs ------------------------------------------------------------------
@@ -56,23 +56,16 @@ Divisions <- read_csv(paste0(input_dir,"county_2017.csv")) %>%
 OA_to_OC <- 1.8
 
 
-poll_info <- data.frame(
-  poll = c("SO2", "NOX", "NH3", "VOC","PM25-PRI"),
-  cal = c(SO4_cal, NOX_cal, NH3_cal, OC_cal, PM_cal)
-)
-
-
 #' Apply calibration coefficients to model predictions
 tot_conc <- read_csv( paste0(conc_dir, 'uncalibrated_conc.csv')) %>% 
-  mutate(OC_primary = OC_primary*PM_cal,
-         OC_secondary = OC_secondary*OC_cal,
-         OC_tot = OC_primary + OC_secondary,
+  mutate(POA = OC_primary*PM_cal*OA_to_OC, 
+         SOA = OC_secondary*SOA_cal, # calibration accounts for fraction of VOCs converted to OA
+         OA_tot = POA + SOA,
          SO4 = SO4*SO4_cal,
          Tot_HNO3 = Tot_HNO3*NOX_cal,
          Tot_NH3 = Tot_NH3*NH3_cal,
          PM = PM*PM_cal
   )
-
 # partition ---------------------------------------------------------------
 #' Estimate particulate nitrate from total nitrate and free ammonia by applying
 #' regression from the AP3 model. The particulate nitrate regression was
@@ -97,11 +90,10 @@ molar_conc <- mutate(tot_conc,
 final_conc <- mutate(molar_conc, 
                      NO3 = NO3_mol*62, # umol/m3 to ug/m3
                      NH4 = NH4_mol*18, # umol/m3 to ug/m3
-                     SOA = OC_secondary*OA_to_OC, #secondary organic carbon to secondary organic aerosol
                      H2SO4 = SO4*98/96, 
                      PM_25 = H2SO4 + NO3 + NH4 + SOA + PM #sulfuric acid + nitrate + ammonium + secondary organic aerosol + primary PM2.5
 ) %>% 
-  select(GEOID17, Longitude, H2SO4, NO3, NH4, OC_tot, SOA, SO4,PM, PM_25)
+  select(GEOID17, Longitude, H2SO4, NO3, NH4, OA_tot, SOA, SO4,PM, PM_25)
 
 
 # evaluation --------------------------------------------------------------
@@ -123,7 +115,7 @@ molar_conc %>%
 
 # stats -------------------------------------------------------------------
 # M - mean, E - error, B- bias, F-fractional
-summary_stats <- data.frame(species_name = c('SO4','NH4','NO3','OC_tot','PM_25'),
+summary_stats <- data.frame(species_name = c('SO4','NH4','NO3','PM_25'),
                             obs_mean = NA,
                             model_mean = NA,
                             ME = NA,
