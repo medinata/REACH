@@ -43,7 +43,7 @@ PM25_base <- read_csv(paste0(conc_dir, "calibrated_conc.csv"))
 
 
 old_conc <- PM25_base %>% 
-  select(GEOID17, base_PM25 = PM_25) 
+  select(GEOID17, base_PM25 = PM_25, base_NO3 = NO3) 
 
 
 # baseline free ammonium and baseline total nitrate (moles)
@@ -60,10 +60,19 @@ poll_var <- 'NOX'
 poll_emis <- read_csv(paste0(emis_dir,"NEI_2017_", poll_var,"_nofires.csv"))
 
 
-# source-receptor matrix --------------------------------------------------
+# intermediate output matrix ----------------------------------------------
+#' matrix of NOX emissions to total nitrate concentrations
 #' Sources are rows, receptors are columns (order for each is based on lowest
 #' to highest fips code)
-sr_matrix <- read_matrix(poll_var)
+
+int_matrix <- read_matrix(poll_var)
+
+
+# source-receptor matrix --------------------------------------------------
+#' matrix of NOX emissions to particulate nitrate concentrations
+#' Sources are rows, receptors are columns (order for each is based on lowest
+#' to highest fips code)
+#sr_matrix <- matrix(NA, nrow = nrow(int_matrix),ncol = nrow(Divisions))
 
 
 # calibration -------------------------------------------------------------
@@ -83,8 +92,8 @@ for (j in 1:nrow(poll_emis)) {
   poll_tot <- list()
   
   
-  for (i in 1:ncol(sr_matrix)) {
-    poll_tot[[i]] <-  sr_matrix[,i] %*% tot_emis
+  for (i in 1:ncol(int_matrix)) {
+    poll_tot[[i]] <-  int_matrix[,i] %*% tot_emis
   }
   
   #' Calculate new total nitrate (gas + particle) concentrations (Tot_HNO3) 
@@ -124,14 +133,19 @@ for (j in 1:nrow(poll_emis)) {
            NH4 = NH4_mol*18,
            PM_25 = H2SO4 + NO3 + NH4 + SOA + PM #sulfuric acid + nitrate + ammonium + secondary organic aerosol + primary PM2.5
     ) %>%
-    select(GEOID17, new_PM25 = PM_25)
+    select(GEOID17, new_PM25 = PM_25, new_NO3 = NO3)
   
   compare_conc <- left_join(old_conc, new_conc, by = "GEOID17") %>%
-    mutate(diff_PM25 = new_PM25 - base_PM25) %>%
+    mutate(diff_PM25 = new_PM25 - base_PM25,
+           diff_NO3 = new_NO3 - base_NO3) %>%
     left_join(Divisions, by = "GEOID17") %>%
     mutate(damage = Input$VSL * deaths_30plus * (1 - exp((-log(Input$R) / 10) * diff_PM25)))
   
+  
   poll_emis[j, "marginal_damage"] <- sum(compare_conc$damage)
+  
+  #sr_matrix[j, ] <- compare_conc$diff_NO3
+  
   
   if (j %% 500 == 0) {
     print(j/nrow(poll_emis)*100)
@@ -141,11 +155,15 @@ for (j in 1:nrow(poll_emis)) {
 }  
 
 
+#' Export marginal social costs
 write_csv(poll_emis, paste0(export_dir, poll_var, '.csv'))
 
-
-
-
+#' Export source-receptor matrices
+# matrix_df <- sr_matrix %>% as.data.frame()
+# write_csv(matrix_df, paste0(export_dir2, poll_var, '.csv'))
+# 
+# 
+# 
 
 
 

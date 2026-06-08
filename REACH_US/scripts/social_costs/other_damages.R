@@ -13,7 +13,6 @@ emis_dir <- paste0(proj_dir,'/inputs/emissions/')
 conc_dir <- paste0(proj_dir, '/results/concentrations/')
 script_dir <- paste0(proj_dir, '/scripts/concentrations/')
 export_dir <- paste0(proj_dir, '/results/social_costs/')
-
 # Inputs ------------------------------------------------------------------
 open_matrix <- function(name_ext, poll) {
   matrix_path <- paste0(result_file,poll,'_')
@@ -56,14 +55,13 @@ for (j in 1:nrow(poll_info)) {
   uncal_conc <- read_csv(paste0(conc_dir, "uncalibrated_conc.csv")) %>%
     select(-poll_info$species[j])
 
-  # source-receptor matrix --------------------------------------------------
+  # intermediate output matrix --------------------------------------------------
   #' Sources are rows, receptors are columns (order for each is based on lowest
   #' to highest identifier code)
   #'
-  sr_matrix <- read_matrix(poll_info$poll_var[j])
+  int_matrix <- read_matrix(poll_info$poll_var[j])
 
-
-
+  
   for (emis_id in 1:nrow(poll_emis)) {
     #' Add 1 ton of emissions to each source at a time
 
@@ -79,8 +77,8 @@ for (j in 1:nrow(poll_info)) {
 
     #' Estimate concentrations at all receptor locations from one tonne
     #' additional emissions at a given source location
-    for (i in 1:ncol(sr_matrix)) {
-      poll_tot[[i]] <- sr_matrix[, i] %*% tot_emis
+    for (i in 1:ncol(int_matrix)) {
+      poll_tot[[i]] <- int_matrix[, i] %*% tot_emis
     }
 
 
@@ -88,13 +86,14 @@ for (j in 1:nrow(poll_info)) {
     colnames(poll_conc) <- poll_info$species[j]
 
     #' Apply calibration constants 
-    tot_conc <- cbind(uncal_conc, poll_conc) %>%
-      mutate(
-        OC_secondary = OC_secondary * OC_cal,
-        SO4 = SO4 * SO4_cal,
-        Tot_HNO3 = Tot_HNO3 * NOX_cal,
-        Tot_NH3 = Tot_NH3 * NH3_cal,
-        PM = PM * PM_cal
+    tot_conc <- cbind(uncal_conc, poll_conc)  %>% 
+      mutate(POA = OC_primary*PM_cal*OA_to_OC, 
+             SOA = OC_secondary*SOA_cal, # calibration accounts for fraction of VOCs converted to OA
+             OA_tot = POA + SOA,
+             SO4 = SO4*SO4_cal,
+             Tot_HNO3 = Tot_HNO3*NOX_cal,
+             Tot_NH3 = Tot_NH3*NH3_cal,
+             PM = PM*PM_cal
       )
 
     #' Inorganic partitioning of total nitrate into nitrate and ammonium estimation
@@ -113,13 +112,14 @@ for (j in 1:nrow(poll_info)) {
     )
 
     #' Calculate new PM2.5 concentration from 1 tonne change in emissions
-    new_conc <- mutate(molar_conc,
-      NO3 = NO3_mol * 62, # umol/m3 to ug/m3
-      NH4 = NH4_mol * 18,
-      SOA = OC_secondary * OA_to_OC,
-      H2SO4 = SO4 * 98 / 96,
-      PM_25 = H2SO4 + NO3 + NH4 + SOA + PM # sulfuric acid + nitrate + ammonium + secondary organic aerosol + primary PM2.5
-    ) %>%
+    
+    
+    new_conc <- mutate(molar_conc, 
+           NO3 = NO3_mol*62, # umol/m3 to ug/m3
+           NH4 = NH4_mol*18, # umol/m3 to ug/m3
+           H2SO4 = SO4*98/96, 
+           PM_25 = H2SO4 + NO3 + NH4 + SOA + PM #sulfuric acid + nitrate + ammonium + secondary organic aerosol + primary PM2.5
+    )%>%
       select(GEOID17, new_PM25 = PM_25)
 
     #' From the change in PM2.5, calculate marginal social costs
@@ -130,6 +130,8 @@ for (j in 1:nrow(poll_info)) {
 
     poll_emis[emis_id, "marginal_damage"] <- sum(compare_conc$damage)
     
+    
+    
     #' Code progress tracker
     if (emis_id %% 500 == 0) {
       print(emis_id/nrow(poll_emis)*100)
@@ -138,5 +140,8 @@ for (j in 1:nrow(poll_info)) {
 
   #' Export marginal social costs
   write_csv(poll_emis, paste0(export_dir, poll_info$poll_var[j], ".csv"))
+  
+ 
+  rm(int_matrix)
 }
 
